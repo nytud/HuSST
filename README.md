@@ -41,11 +41,11 @@ kiépítése a neurális nyelvmodellek kiértékelése céljából [HuLU: Hungar
   booktitle={XVIII. Magyar Számítógépes Nyelvészeti Konferencia},
   year={2022}
 }
-
+```
 and 
 
 Richard Socher, Alex Perelygin, Jean Wu, Jason Chuang, Christopher Manning, Andrew Ng and Christopher Potts (2013), Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank. In: Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing. 1631--1642.
-
+```
 @inproceedings{socher-etal-2013-recursive,
     title = "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank",
     author = "Socher, Richard  and
