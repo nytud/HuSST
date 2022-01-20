@@ -20,7 +20,7 @@ The data files are in json format. The keys are the following:
 
 ## Guidelines
 
-Later...
+The annotation guidelines (in Hungarian) are in the 'guidelines' folder. 
 
 ## License and usage
 
