@@ -6,7 +6,7 @@
     },
     {
         "Sent_id": "dev_1",
-        "Sent": "Donovan... elpazarolja a fő eszközét, Jackie Chan-t, és elrontja a létfontosságú akciójeleneteket.",
+        "Sent": "Donovan elpazarolja a fő eszközét, Jackie Chan-t, és elrontja a létfontosságú akciójeleneteket.",
         "Label": "negative"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "Sent_id": "dev_12",
-        "Sent": "... A film olyan, mintha meglévő helyzetekből és más filmek karaktereiből lenne összefűzve.",
+        "Sent": "A film olyan, mintha meglévő helyzetekből és más filmek karaktereiből lenne összefűzve.",
         "Label": "negative"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
         "Sent_id": "dev_23",
-        "Sent": "...míg a humor szempontjából a Jason X sokkal szórakoztatóbb, mint vártam, minden más értelemben bukás.",
+        "Sent": "Míg a humor szempontjából a Jason X sokkal szórakoztatóbb, mint vártam, minden más értelemben bukás.",
         "Label": "neutral"
     },
     {
@@ -206,12 +206,12 @@
     },
     {
         "Sent_id": "dev_41",
-        "Sent": "... ünnepélyes önhittsége meggátolja, hogy osztozzunk az áhítatban, amiben hordozza magát.",
+        "Sent": "ünnepélyes önhittsége meggátolja, hogy osztozzunk az áhítatban, amiben hordozza magát.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_42",
-        "Sent": "...(a középkorú romantika) jó és érdekes ötlete nincs jól kezelve, a kifinomult sztár alakításokat kivéve nagyon kevés dolog miatt lehetne ajánlani a \"Soha többé\"-t.",
+        "Sent": "A középkorú romantika jó és érdekes ötlete nincs jól kezelve, a kifinomult sztár alakításokat kivéve nagyon kevés dolog miatt lehetne ajánlani a \"Soha többé\"-t.",
         "Label": "negative"
     },
     {
@@ -221,7 +221,7 @@
     },
     {
         "Sent_id": "dev_44",
-        "Sent": "Értelmetlen és nevetséges fordulatok jellemzik, fásult előadások, rosszul rendezett akciójelenetek és néhány a legrosszabb párbeszédek közül, amikre csak emlékszem. ",
+        "Sent": "Értelmetlen és nevetséges fordulatok jellemzik, fásult előadások, rosszul rendezett akciójelenetek és néhány a legrosszabb párbeszédek közül, amikre csak emlékszem.",
         "Label": "negative"
     },
     {
@@ -336,7 +336,7 @@
     },
     {
         "Sent_id": "dev_67",
-        "Sent": "Bár Tom Shadyac filmje elég kísértetiesen kezdődik, a félidő környékén hirtelen édeskés szentimentaliizmusba és nevetséges kitalációba fordul át.",
+        "Sent": "Bár Tom Shadyac filmje elég kísértetiesen kezdődik, a félidő környékén hirtelen édeskés szentimentalizmusba és nevetséges kitalációba fordul át.",
         "Label": "negative"
     },
     {
@@ -401,7 +401,7 @@
     },
     {
         "Sent_id": "dev_80",
-        "Sent": "David Kendall egysíkú írása és a There's Something About Mary társszerzője, Ed Decter rendezése. ",
+        "Sent": "David Kendall egysíkú írása és a There's Something About Mary társszerzője, Ed Decter rendezése.",
         "Label": "neutral"
     },
     {
@@ -436,7 +436,7 @@
     },
     {
         "Sent_id": "dev_87",
-        "Sent": "Inkább: \"Hogy tudsz ezért pénzt kérni?\"",
+        "Sent": "Hogy tudsz ezért pénzt kérni?",
         "Label": "negative"
     },
     {
@@ -471,7 +471,7 @@
     },
     {
         "Sent_id": "dev_94",
-        "Sent": "Scooter ironiájának kivételével hiányzik a jellemzések és a párbeszédek mélysége és összetettsége.",
+        "Sent": "Scooter iróniájának kivételével hiányzik a jellemzések és a párbeszédek mélysége és összetettsége.",
         "Label": "negative"
     },
     {
@@ -491,7 +491,7 @@
     },
     {
         "Sent_id": "dev_98",
-        "Sent": "Valahol a World Traveler káoszából, egy középszerű film próbál kijutni.",
+        "Sent": "Valahol a World Traveler káoszából egy középszerű film próbál kijutni.",
         "Label": "negative"
     },
     {
@@ -521,7 +521,7 @@
     },
     {
         "Sent_id": "dev_104",
-        "Sent": "... kiterjeszti az unalom látókörét az összeomlás pontjára, és az unalom fekete lyukává válik, amelyből semmilyen érdekes fogalom nem menekülhet.",
+        "Sent": "Kiterjeszti az unalom látókörét az összeomlás pontjára, és az unalom fekete lyukává válik, amelyből semmilyen érdekes fogalom nem menekülhet.",
         "Label": "negative"
     },
     {
@@ -596,7 +596,7 @@
     },
     {
         "Sent_id": "dev_119",
-        "Sent": "...a film eszességét ironikus módon azok az emberek vették el, akik arra hivatottak, hogy ragyogóvá tegyék.",
+        "Sent": "A film eszességét ironikus módon azok az emberek vették el, akik arra hivatottak, hogy ragyogóvá tegyék.",
         "Label": "negative"
     },
     {
@@ -676,7 +676,7 @@
     },
     {
         "Sent_id": "dev_135",
-        "Sent": "-LRB- T -RRB- a film sohasem biztos abban, hogy egyértelmű álláspontot képvisel - még akkor sem, ha kétértelmű bemutatásra törekszik.",
+        "Sent": "T a film sohasem biztos abban, hogy egyértelmű álláspontot képvisel - még akkor sem, ha kétértelmű bemutatásra törekszik.",
         "Label": "neutral"
     },
     {
@@ -696,7 +696,7 @@
     },
     {
         "Sent_id": "dev_139",
-        "Sent": "Egy alapvetően szörnyű film - ostoba, narratívan kaotikus, vizuálisan hanyag... a \"The Thing\" és az öregkori \"Sikoly\" furcsa keveréke. '",
+        "Sent": "Egy alapvetően szörnyű film - ostoba, narratívan kaotikus, vizuálisan hanyag... a \"The Thing\" és az öregkori \"Sikoly\" furcsa keveréke.",
         "Label": "negative"
     },
     {
@@ -806,7 +806,7 @@
     },
     {
         "Sent_id": "dev_161",
-        "Sent": "Bár inspirál némi -LRB- terepen kívüli -RRB- kreatív gondolkodásra, a film - saját kárára - sokkal inkább filmes kollázs, mint polemikus traktátus.",
+        "Sent": "Bár inspirál némi terepen kívüli kreatív gondolkodásra, a film - saját kárára - sokkal inkább filmes kollázs, mint polemikus traktátus.",
         "Label": "neutral"
     },
     {
@@ -866,7 +866,7 @@
     },
     {
         "Sent_id": "dev_173",
-        "Sent": "... egy hihetetlenül keménykezű, manipulatív tuskó, aki nagyon ismerősnek tűnik.",
+        "Sent": "Egy hihetetlenül keménykezű, manipulatív tuskó, aki nagyon ismerősnek tűnik.",
         "Label": "neutral"
     },
     {
@@ -1211,7 +1211,7 @@
     },
     {
         "Sent_id": "dev_242",
-        "Sent": "... ellenszenves, érdektelen, komolytalan, és teljesen alkalmatlan.",
+        "Sent": "Ellenszenves, érdektelen, komolytalan, és teljesen alkalmatlan.",
         "Label": "negative"
     },
     {
@@ -1401,7 +1401,7 @@
     },
     {
         "Sent_id": "dev_280",
-        "Sent": "Szokatlan főszereplőjével - LRB- a skótszoknyát viselő Jacksonnal -RRB- és témájával, a hihetetlen \"A hetedik mennyország\" valamilyen szinten szórakoztató, de lehetett volna sokkal erősebb is.",
+        "Sent": "Szokatlan főszereplőjével a skótszoknyát viselő Jacksonnal és témájával, a hihetetlen \"A hetedik mennyország\" valamilyen szinten szórakoztató, de lehetett volna sokkal erősebb is.",
         "Label": "neutral"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
         "Sent_id": "dev_289",
-        "Sent": "-LRB- A kölyök -RRB- egyszerűen túl nyafka ahhoz, hogy szimpátiát váltson ki, és ahogy a film a fináléhoz közeledik, a kis változásai üresen csengenek.",
+        "Sent": "A kölyök egyszerűen túl nyafka ahhoz, hogy szimpátiát váltson ki, és ahogy a film a fináléhoz közeledik, a kis változásai üresen csengenek.",
         "Label": "negative"
     },
     {
@@ -1486,7 +1486,7 @@
     },
     {
         "Sent_id": "dev_297",
-        "Sent": "Ezt az ostyavékony filmet a fürge vállán cipelve Chan átgázol a rothadó íráson, rendezésen és időzítésen, olyan mosollyal, ami azt súgja: `Ha pozitív maradok, akkor talán az egyik legjobb filmemet, a Részeges mestert is megidézhetem. '\r\n\r\n",
+        "Sent": "Ezt az ostyavékony filmet a fürge vállán cipelve Chan átgázol a rothadó íráson, rendezésen és időzítésen, olyan mosollyal, ami azt súgja: `Ha pozitív maradok, akkor talán az egyik legjobb filmemet, a Részeges mestert is megidézhetem.",
         "Label": "neutral"
     },
     {
@@ -1551,7 +1551,7 @@
     },
     {
         "Sent_id": "dev_310",
-        "Sent": "A Bloodwork nem egy borzalmas film, csak egy bénítóan nyilvánvaló alkotás - egy rejtélyes gyilkossághoz képest nem kifizetődő sallang.\r\n",
+        "Sent": "A Bloodwork nem egy borzalmas film, csak egy bénítóan nyilvánvaló alkotás - egy rejtélyes gyilkossághoz képest nem kifizetődő sallang.",
         "Label": "neutral"
     },
     {
@@ -1576,17 +1576,17 @@
     },
     {
         "Sent_id": "dev_315",
-        "Sent": "Mintha ez egy jól kidolgozott feladat lenne, mint egy teljes értékű film.\r\n\r\n",
+        "Sent": "Mintha ez egy jól kidolgozott feladat lenne, mint egy teljes értékű film.",
         "Label": "positive"
     },
     {
         "Sent_id": "dev_316",
-        "Sent": "A \"Carmen\" szenegáli aktualizálása, amely Djeinaba Diop Gai lenyűgöző alakítása miatt olyan jó.\r\n\r\n",
+        "Sent": "A \"Carmen\" szenegáli aktualizálása, amely Djeinaba Diop Gai lenyűgöző alakítása miatt olyan jó.",
         "Label": "positive"
     },
     {
         "Sent_id": "dev_317",
-        "Sent": "Ez az a humanizáló dolog, ami valószínűleg elsüllyeszti a filmet mindazok számára, akik nem gondolkodnak egész nap a százalékokon.\r\n\r\n",
+        "Sent": "Ez az a humanizáló dolog, ami valószínűleg elsüllyeszti a filmet mindazok számára, akik nem gondolkodnak egész nap a százalékokon.",
         "Label": "negative"
     },
     {
@@ -1611,22 +1611,22 @@
     },
     {
         "Sent_id": "dev_322",
-        "Sent": "Az \"Abandon\" előzményei ígéretesek,... de a megvalósítás egy teljes zűrzavar.\r\n\r\n",
+        "Sent": "Az \"Abandon\" előzményei ígéretesek,... de a megvalósítás egy teljes zűrzavar.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_323",
-        "Sent": "Az új technológia ijesztő csábító erejéről szóló kis krimi elveszíti a saját életképességébe vetett hitét, és élvezhetetlen speciális effektusokkal teli túlzásba esik.\r\n\r\n",
+        "Sent": "Az új technológia ijesztő csábító erejéről szóló kis krimi elveszíti a saját életképességébe vetett hitét, és élvezhetetlen speciális effektusokkal teli túlzásba esik.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_324",
-        "Sent": "A Monsoon Wedding egy kicsit túl nehézkes ahhoz, hogy sekélyes szórakoztatásként működjön, távolról sem elég éleslátó ahhoz, hogy drámának minősüljön, és leginkább arra szolgál, hogy meghozza az ember kedvét a bollywoodi filmekhez.\r\n\r\n",
+        "Sent": "A Monsoon Wedding egy kicsit túl nehézkes ahhoz, hogy sekélyes szórakoztatásként működjön, távolról sem elég éleslátó ahhoz, hogy drámának minősüljön, és leginkább arra szolgál, hogy meghozza az ember kedvét a bollywoodi filmekhez.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_325",
-        "Sent": "Hacsak nem érdekel különösebben Bob Crane, akkor a film lenyűgöző alakításai és ügyes rendezése valószínűleg nem fog maradandó benyomást tenni.\r\n\r\n",
+        "Sent": "Hacsak nem érdekel különösebben Bob Crane, akkor a film lenyűgöző alakításai és ügyes rendezése valószínűleg nem fog maradandó benyomást tenni.",
         "Label": "neutral"
     },
     {
@@ -1636,7 +1636,7 @@
     },
     {
         "Sent_id": "dev_327",
-        "Sent": "A Nemezis esetében a lényeg ugyanaz, mint a sorozat összes filmjénél: A rajongók kétségtelenül élvezni fogják, a nem elkötelezetteknek pedig nem kell rá pazarolniuk az idejüket.\r\n\r\n",
+        "Sent": "A Nemezis esetében a lényeg ugyanaz, mint a sorozat összes filmjénél: A rajongók kétségtelenül élvezni fogják, a nem elkötelezetteknek pedig nem kell rá pazarolniuk az idejüket.",
         "Label": "neutral"
     },
     {
@@ -1651,12 +1651,12 @@
     },
     {
         "Sent_id": "dev_330",
-        "Sent": "Micsoda fullasztóan komolytalan és eredietlen zagyvaság ez!\r\n\r\n",
+        "Sent": "Micsoda fullasztóan komolytalan és eredietlen zagyvaság ez!",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_331",
-        "Sent": "A film annyira tele van a különböző Silbersteineket érintő mellékszálakkal, hogy inkább tűnik egy tévésorozat pilot epizódjának, mint játékfilmnek.\r\n\r\n",
+        "Sent": "A film annyira tele van a különböző Silbersteineket érintő mellékszálakkal, hogy inkább tűnik egy tévésorozat pilot epizódjának, mint játékfilmnek.",
         "Label": "negative"
     },
     {
@@ -1676,12 +1676,12 @@
     },
     {
         "Sent_id": "dev_335",
-        "Sent": "A zárt ajtók mögött zajló zűrzavar ellenére a film lényegében szaft nélküli.\r\n\r\n",
+        "Sent": "A zárt ajtók mögött zajló zűrzavar ellenére a film lényegében szaft nélküli.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_336",
-        "Sent": "Szűklátókörű, néhány kiválasztott számára hozzáférhető, mindenki mással szemben távolságtartó, és önelégülten azt sugallja, hogy a felsőbbrendű erkölcsi hangnem fontosabb, mint a filmkészítési készség.\r\n\r\n",
+        "Sent": "Szűklátókörű, néhány kiválasztott számára hozzáférhető, mindenki mással szemben távolságtartó, és önelégülten azt sugallja, hogy a felsőbbrendű erkölcsi hangnem fontosabb, mint a filmkészítési készség.",
         "Label": "negative"
     },
     {
@@ -1701,7 +1701,7 @@
     },
     {
         "Sent_id": "dev_340",
-        "Sent": "Bármennyire is ostobák és giccsesek, a rajzfilmek szinte Shakespeare-szerűnek tűnnek - mind mélységükben, mind terjedelmükben -, miután megnéztük ezt a digitális effektekkel teletűzdelt, állítólag családbarát vígjátékot.\r\n",
+        "Sent": "Bármennyire is ostobák és giccsesek, a rajzfilmek szinte Shakespeare-szerűnek tűnnek - mind mélységükben, mind terjedelmükben -, miután megnéztük ezt a digitális effektekkel teletűzdelt, állítólag családbarát vígjátékot.",
         "Label": "neutral"
     },
     {
@@ -1711,7 +1711,7 @@
     },
     {
         "Sent_id": "dev_342",
-        "Sent": "Az Alien-filmek olcsó újrajátszása.\r\n\r\n",
+        "Sent": "Az Alien-filmek olcsó újrajátszása.",
         "Label": "negative"
     },
     {
@@ -1721,7 +1721,7 @@
     },
     {
         "Sent_id": "dev_344",
-        "Sent": "A kezdeti izgalom egy felmelegített pasztízsbe torkollik.\r\n\r\n",
+        "Sent": "A kezdeti izgalom egy felmelegített pasztízsbe torkollik.",
         "Label": "neutral"
     },
     {
@@ -1741,7 +1741,7 @@
     },
     {
         "Sent_id": "dev_348",
-        "Sent": "Egy hollywoodi szatírának kellett volna lennie, ehelyett körülbelül olyan friss, mint a Variety múlt heti száma.\r\n\r\n",
+        "Sent": "Egy hollywoodi szatírának kellett volna lennie, ehelyett körülbelül olyan friss, mint a Variety múlt heti száma.",
         "Label": "negative"
     },
     {
@@ -1756,32 +1756,32 @@
     },
     {
         "Sent_id": "dev_351",
-        "Sent": "Egy kicsit több intenzitás és egy kicsit kevesebb báj megmenthette volna ezt a filmet egy világnyi fájdalomtól.\r\n\r\n\r\n",
+        "Sent": "Egy kicsit több intenzitás és egy kicsit kevesebb báj megmenthette volna ezt a filmet egy világnyi fájdalomtól.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_352",
-        "Sent": "-LRB- T -RRB- az ő moslékában még kultuszfilmként sincs potenciál, mert túl hangosan kiabálja a sértéseket a vászonra.\r\n\r\n",
+        "Sent": "T az ő moslékában még kultuszfilmként sincs potenciál, mert túl hangosan kiabálja a sértéseket a vászonra.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_353",
-        "Sent": "A film cselekménye szinte teljesen szellemtelen és értelmetlen, minden geget kétszer-háromszor elsüt és túlzásba visz a nevetés fenntartásának határán.\r\n\r\n",
+        "Sent": "A film cselekménye szinte teljesen szellemtelen és értelmetlen, minden geget kétszer-háromszor elsüt és túlzásba visz a nevetés fenntartásának határán.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_354",
-        "Sent": "... működhet, mint addiktív bűnös élvezet, de soha nem győzi le megkérdőjelezhető szatirikus ambivalenciáját.",
+        "Sent": "Működhet, mint addiktív bűnös élvezet, de soha nem győzi le megkérdőjelezhető szatirikus ambivalenciáját.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_355",
-        "Sent": "Ennek a Scarletnek a betűje A...\r\n\r\n",
+        "Sent": "Ennek a Scarletnek a betűje A...",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_356",
-        "Sent": "Céltalan, fáradságos és önkényes.\r\n\r\n",
+        "Sent": "Céltalan, fáradságos és önkényes.",
         "Label": "negative"
     },
     {
@@ -1816,7 +1816,7 @@
     },
     {
         "Sent_id": "dev_363",
-        "Sent": "A filmet az \"ott voltam, azt tettem\" súlyos bűze lengi körül.\r\n\r\n",
+        "Sent": "A filmet az \"ott voltam, azt tettem\" súlyos bűze lengi körül.",
         "Label": "neutral"
     },
     {
@@ -1831,7 +1831,7 @@
     },
     {
         "Sent_id": "dev_366",
-        "Sent": "Ő egy rejtély, akit egy mosolygó színésznő játszik, aki néha ráncolja a homlokát, de nem mutatja meg a belső életét.\r\n\r\n",
+        "Sent": "Ő egy rejtély, akit egy mosolygó színésznő játszik, aki néha ráncolja a homlokát, de nem mutatja meg a belső életét.",
         "Label": "neutral"
     },
     {
@@ -1846,12 +1846,12 @@
     },
     {
         "Sent_id": "dev_369",
-        "Sent": "A film nehézkes forgatókönyve gyorsan átcsúszik a nagyzolásba és a nagyképűségbe.\r\n\r\n\r\n",
+        "Sent": "A film nehézkes forgatókönyve gyorsan átcsúszik a nagyzolásba és a nagyképűségbe.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_370",
-        "Sent": "A potenciálisan jó komikus alapfeltevés és a kiváló szereposztás borzasztóan kárba vész.\r\n\r\n",
+        "Sent": "A potenciálisan jó komikus alapfeltevés és a kiváló szereposztás borzasztóan kárba vész.",
         "Label": "neutral"
     },
     {
@@ -1891,7 +1891,7 @@
     },
     {
         "Sent_id": "dev_378",
-        "Sent": "Schnitzler filmjének van egy nagyszerű kapaszkodója, néhány okos részlete és jól megrajzolt, bár szokványos karakterei, de még így is csak részben kielégítő.\r\n\r\n",
+        "Sent": "Schnitzler filmjének van egy nagyszerű kapaszkodója, néhány okos részlete és jól megrajzolt, bár szokványos karakterei, de még így is csak részben kielégítő.",
         "Label": "neutral"
     },
     {
@@ -1906,7 +1906,7 @@
     },
     {
         "Sent_id": "dev_381",
-        "Sent": "Egy hangos, csúnya, irritáló film, amelynek egyetlen szatirikus sallangja sem talál célba.\r\n\r\n",
+        "Sent": "Egy hangos, csúnya, irritáló film, amelynek egyetlen szatirikus sallangja sem talál célba.",
         "Label": "negative"
     },
     {
@@ -1946,12 +1946,12 @@
     },
     {
         "Sent_id": "dev_389",
-        "Sent": "Láttam Juwanna Mannt, így neked nem kell.\r\n\r\n",
+        "Sent": "Láttam Juwanna Mannt, így neked nem kell.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_390",
-        "Sent": "A Reginald Hudlin-vígjáték nem vicces, nélkülözi a karakterek iránti elkötelezettséget vagy szeretetet, emellett vécéhumorra és etnikai szidalmakra támaszkodik.\r\n\r\n",
+        "Sent": "A Reginald Hudlin-vígjáték nem vicces, nélkülözi a karakterek iránti elkötelezettséget vagy szeretetet, emellett vécéhumorra és etnikai szidalmakra támaszkodik.",
         "Label": "negative"
     },
     {
@@ -1961,22 +1961,22 @@
     },
     {
         "Sent_id": "dev_392",
-        "Sent": "Ez a romantikus\\/komédia azt a kérdést teszi fel, hogy mennyi szuvlakit lehet elviselni, mielőtt gyomorrontás lépne fel.\r\n\r\n",
+        "Sent": "Ez a romantikus\\/komédia azt a kérdést teszi fel, hogy mennyi szuvlakit lehet elviselni, mielőtt gyomorrontás lépne fel.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_393",
-        "Sent": "Burns elpazarolja a lehetőséget, hogy abszurd megfigyeléseket tegyen, és belefeledkezik a pofonegyszerű részletek sodrásába.\r\n\r\n",
+        "Sent": "Burns elpazarolja a lehetőséget, hogy abszurd megfigyeléseket tegyen, és belefeledkezik a pofonegyszerű részletek sodrásába.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_394",
-        "Sent": "Van egy ügyes, finoman kivitelezett csavar, amely 80 perc alatt lezárhatta volna a dolgokat, de Kang három-négy további befejezést fűz hozzá.\r\n\r\n",
+        "Sent": "Van egy ügyes, finoman kivitelezett csavar, amely 80 perc alatt lezárhatta volna a dolgokat, de Kang három-négy további befejezést fűz hozzá.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_395",
-        "Sent": "Reeboir egy kedves mosoly és egy dühös ugatás között váltakozik, míg Said ismétlésekkel próbálja lekoptatni az esetleges tanítványokat.\r\n\r\n",
+        "Sent": "Reeboir egy kedves mosoly és egy dühös ugatás között váltakozik, míg Said ismétlésekkel próbálja lekoptatni az esetleges tanítványokat.",
         "Label": "neutral"
     },
     {
@@ -1986,7 +1986,7 @@
     },
     {
         "Sent_id": "dev_397",
-        "Sent": "A színészek irányítás nélkül improvizálnak és üvöltöznek ebben a filmben, hiányzik belőlük a sodró lendületű, sötét humor, ami szükséges lenne ahhoz, hogy egy ilyen ötlet működjön a vásznon.\r\n\r\n",
+        "Sent": "A színészek irányítás nélkül improvizálnak és üvöltöznek ebben a filmben, hiányzik belőlük a sodró lendületű, sötét humor, ami szükséges lenne ahhoz, hogy egy ilyen ötlet működjön a vásznon.",
         "Label": "negative"
     },
     {
@@ -1996,7 +1996,7 @@
     },
     {
         "Sent_id": "dev_399",
-        "Sent": "Ha ez a buta kis rajzfilm inspirálni tud néhány gyereket arra, hogy ne váljanak mohó szemétládákká, csak így tovább.\r\n\r\n\r\n",
+        "Sent": "Ha ez a buta kis rajzfilm inspirálni tud néhány gyereket arra, hogy ne váljanak mohó szemétládákká, csak így tovább.",
         "Label": "neutral"
     },
     {
@@ -2011,12 +2011,12 @@
     },
     {
         "Sent_id": "dev_402",
-        "Sent": "Úgy tűnik, mintha rosszul utánozná a Bárdot.\r\n\r\n",
+        "Sent": "Úgy tűnik, mintha rosszul utánozná a Bárdot.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_403",
-        "Sent": "Ami hiányzik a Gyilkosság számokkal című filmből, az a tizenévesek deviáns viselkedésének valódi pszichológiai megalapozása.\r\n\r\n",
+        "Sent": "Ami hiányzik a Gyilkosság számokkal című filmből, az a tizenévesek deviáns viselkedésének valódi pszichológiai megalapozása.",
         "Label": "negative"
     },
     {
@@ -2036,17 +2036,17 @@
     },
     {
         "Sent_id": "dev_407",
-        "Sent": "Egy film, amely a média által konstruált \"kérdéseket\" feszegeti, mint például, hogy a kompromisszum az én halála-e, a legtöbb ember számára nem lesz rendkívül emlékezetes.\r\n\r\n",
+        "Sent": "Egy film, amely a média által konstruált \"kérdéseket\" feszegeti, mint például, hogy a kompromisszum az én halála-e, a legtöbb ember számára nem lesz rendkívül emlékezetes.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_408",
-        "Sent": "A Slackers' viccelődő megközelítése az egyetemi oktatás iránt kiábrándítóan egyszerű - ez a film legnagyobb problémája -, és nincsenek felejthetetlenül ostoba mutatványok vagy felháborítóan durva párbeszédsorok a filmben, amely alapján mély nyomokat hagyhatna bennünk.\r\n\r\n",
+        "Sent": "A Slackers' viccelődő megközelítése az egyetemi oktatás iránt kiábrándítóan egyszerű - ez a film legnagyobb problémája -, és nincsenek felejthetetlenül ostoba mutatványok vagy felháborítóan durva párbeszédsorok a filmben, amely alapján mély nyomokat hagyhatna bennünk.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_409",
-        "Sent": "Ha a Fesztivál Cannes-ban a keményre főzött hollywoodi argót bátorítóan csúnya pontossággal szögezi is le, a filmmel kapcsolatban sok minden, beleértve a szereposztás egy részét is, frusztrálóan kevéssé meggyőző.\r\n\r\n",
+        "Sent": "Ha a Fesztivál Cannes-ban a keményre főzött hollywoodi argót bátorítóan csúnya pontossággal szögezi is le, a filmmel kapcsolatban sok minden, beleértve a szereposztás egy részét is, frusztrálóan kevéssé meggyőző.",
         "Label": "negative"
     },
     {
@@ -2056,7 +2056,7 @@
     },
     {
         "Sent_id": "dev_411",
-        "Sent": "A Freddy Got Fingered óta nem láttam ilyen önfeledt szemetet.\r\n\r\n",
+        "Sent": "A Freddy Got Fingered óta nem láttam ilyen önfeledt szemetet.",
         "Label": "negative"
     },
     {
@@ -2066,7 +2066,7 @@
     },
     {
         "Sent_id": "dev_413",
-        "Sent": "Rob Schneider infantilis öltözködési rutinjai töltik ki A dögös csaj című filmet, a fantáziátlan komikus legújabb trükkjét.\r\n\r\n",
+        "Sent": "Rob Schneider infantilis öltözködési rutinjai töltik ki A dögös csaj című filmet, a fantáziátlan komikus legújabb trükkjét.",
         "Label": "negative"
     },
     {
@@ -2076,22 +2076,22 @@
     },
     {
         "Sent_id": "dev_415",
-        "Sent": "A filmet elnehezítik a mellékszereplők, akik vagy túl jóságosak, bölcsek és tudálékosak, vagy egyenesen komikusan gonoszak.\r\n\r\n",
+        "Sent": "A filmet elnehezítik a mellékszereplők, akik vagy túl jóságosak, bölcsek és tudálékosak, vagy egyenesen komikusan gonoszak.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_416",
-        "Sent": "A film annyira rossz, hogy nem javít az üres képernyőre bámulás élményén.\r\n\r\n",
+        "Sent": "A film annyira rossz, hogy nem javít az üres képernyőre bámulás élményén.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_417",
-        "Sent": "Sheridan kísérlete a szerző iskoláskori emlékiratairól meglehetősen hiányos hozzáállással nyúl egy nehéz fiatal életéhez.\r\n\r\n",
+        "Sent": "Sheridan kísérlete a szerző iskoláskori emlékiratairól meglehetősen hiányos hozzáállással nyúl egy nehéz fiatal életéhez.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_418",
-        "Sent": "Kevés logikával vagy folytonossággal ugrál, és a kulisszák mögötti információk bájtjait mutatja be, amelyek soha nem adnak kielégítő, teljes képet erről a különleges, ókori igényes mesterségről.\r\n\r\n",
+        "Sent": "Kevés logikával vagy folytonossággal ugrál, és a kulisszák mögötti információk bájtjait mutatja be, amelyek soha nem adnak kielégítő, teljes képet erről a különleges, ókori igényes mesterségről.",
         "Label": "negative"
     },
     {
@@ -2101,22 +2101,22 @@
     },
     {
         "Sent_id": "dev_420",
-        "Sent": "Ha a Hollywood vs. Woo csatáról van szó, úgy tűnik, hogy Woo a hadifogoly.\r\n\r\n",
+        "Sent": "Ha a Hollywood vs. Woo csatáról van szó, úgy tűnik, hogy Woo a hadifogoly.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_421",
-        "Sent": "Van néhány kacagás, de nincs egyetlen olyan gegsorozat sem, ami igazán betalálna, és a sztárok mintha két különböző filmben játszanának.\r\n\r\n",
+        "Sent": "Van néhány kacagás, de nincs egyetlen olyan gegsorozat sem, ami igazán betalálna, és a sztárok mintha két különböző filmben játszanának.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_422",
-        "Sent": "A Chateau-ban van egy nagyon vicces és még néhány tisztességes poén, de az egész egy enyhén humoros, néha unalmas, végső soron jelentéktelen film.\r\n\r\n",
+        "Sent": "A Chateau-ban van egy nagyon vicces és még néhány tisztességes poén, de az egész egy enyhén humoros, néha unalmas, végső soron jelentéktelen film.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_423",
-        "Sent": "Unalmas, szellemtelen, ostoba és egyhangú : az értelmetlen zűrzavar ultrahangos robbanása, amely nem vezet gyorsan sehova.\r\n\r\n",
+        "Sent": "Unalmas, szellemtelen, ostoba és egyhangú : az értelmetlen zűrzavar ultrahangos robbanása, amely nem vezet gyorsan sehova.",
         "Label": "negative"
     },
     {
@@ -2126,27 +2126,27 @@
     },
     {
         "Sent_id": "dev_425",
-        "Sent": "Elégedett csupán azzal, hogy a címszereplőjét dicsőítse és dühét kihasználja - mindezt könnyű szenteskedésért, sablonos izgalmakért és a nemzeti egészségbiztosítás szükségességéről szóló béna prédikációért.\r\n\r\n",
+        "Sent": "Elégedett csupán azzal, hogy a címszereplőjét dicsőítse és dühét kihasználja - mindezt könnyű szenteskedésért, sablonos izgalmakért és a nemzeti egészségbiztosítás szükségességéről szóló béna prédikációért.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_426",
-        "Sent": "A film -LRB- Assayas -RRB- tisztelgése a gall \"minőségi hagyományok\" előtt, annak minden rozsdás, szögletes mivoltában.\r\n\r\n",
+        "Sent": "A film Assayas tisztelgése a gall \"minőségi hagyományok\" előtt, annak minden rozsdás, szögletes mivoltában.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_427",
-        "Sent": "Az üzenetnek megvan az értéke, és egy olyan brutálisan őszinte ember, mint Jack próféta, talán rávilágíthatott volna egy-két dologra az életet illetően is.\r\n\r\n",
+        "Sent": "Az üzenetnek megvan az értéke, és egy olyan brutálisan őszinte ember, mint Jack próféta, talán rávilágíthatott volna egy-két dologra az életet illetően is.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_428",
-        "Sent": "-LRB- Úgy tűnik -RRB- még haszontalanabbul felesleges és szégyentelenül pénzhajhászóbb, mint a legtöbb harmadosztályú horror folytatás.\r\n\r\n",
+        "Sent": "Úgy tűnik még haszontalanabbul felesleges és szégyentelenül pénzhajhászóbb, mint a legtöbb harmadosztályú horror folytatás.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_429",
-        "Sent": "Nehéz elképzelni, hogy akár csak a kicsi gyerekeket is lenyűgözné ez a fáradt újrafeldolgozás.\r\n\r\n",
+        "Sent": "Nehéz elképzelni, hogy akár csak a kicsi gyerekeket is lenyűgözné ez a fáradt újrafeldolgozás.",
         "Label": "negative"
     },
     {
@@ -2161,7 +2161,7 @@
     },
     {
         "Sent_id": "dev_432",
-        "Sent": "Egy furcsa szerelmi háromszög felvillanyozó feltárása helyett, koordinálatlan burjánzást kaptunk.",
+        "Sent": "Egy furcsa szerelmi háromszög felvillanyozó feltárása helyett koordinálatlan burjánzást kaptunk.",
         "Label": "neutral"
     },
     {
@@ -2176,7 +2176,7 @@
     },
     {
         "Sent_id": "dev_435",
-        "Sent": "Boll sok gyors vágást és elmosódott képkockát használ, hogy felpörgesse a dolgokat, de a béna párbeszédek és a nem megfelelő alakítások megölik a hatást.\r\n\r\n",
+        "Sent": "Boll sok gyors vágást és elmosódott képkockát használ, hogy felpörgesse a dolgokat, de a béna párbeszédek és a nem megfelelő alakítások megölik a hatást.",
         "Label": "negative"
     },
     {
@@ -2191,7 +2191,7 @@
     },
     {
         "Sent_id": "dev_438",
-        "Sent": "Mint egy középkategóriás csatorna szitkomja - többnyire ártalmatlan, szeszélyesen szórakoztató, de végül olyan súlytalan, hogy egy tisztességes széllökés akár le is fújhatja a képernyőről.\r\n\r\n",
+        "Sent": "Mint egy középkategóriás csatorna szitkomja - többnyire ártalmatlan, szeszélyesen szórakoztató, de végül olyan súlytalan, hogy egy tisztességes széllökés akár le is fújhatja a képernyőről.",
         "Label": "neutral"
     },
     {
@@ -2206,7 +2206,7 @@
     },
     {
         "Sent_id": "dev_441",
-        "Sent": "Végül a film homogenizáltnak és kissé mesterkéltnek tűnik, mintha rózsaszínű szemüvegen keresztül néznénk vissza a szakadt és csúnya múltra.\r\n\r\n",
+        "Sent": "Végül a film homogenizáltnak és kissé mesterkéltnek tűnik, mintha rózsaszínű szemüvegen keresztül néznénk vissza a szakadt és csúnya múltra.",
         "Label": "negative"
     },
     {
@@ -2231,22 +2231,22 @@
     },
     {
         "Sent_id": "dev_446",
-        "Sent": "\" A szmokingnak\" olyan eszköznek kellett volna lennie Chan számára, mint amilyen \"A maszk\" volt Jim Carreynek.\r\n\r\n",
+        "Sent": "\" A szmokingnak\" olyan eszköznek kellett volna lennie Chan számára, mint amilyen \"A maszk\" volt Jim Carreynek.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_447",
-        "Sent": "Sajnos, a férfi az, aki a ruhákat készíti.",
+        "Sent": "Sajnos a férfi az, aki a ruhákat készíti.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_448",
-        "Sent": "Az alkalmi mozilátogatók számára, akik a Rules című filmbe botlanak, és a Dawson's Creek kölyök főszereplésével készült American Pie kalamajkára számítanak, valószínűleg sikoltozva fognak kifutni a teremből.\r\n\r\n",
+        "Sent": "Az alkalmi mozilátogatók számára, akik a Rules című filmbe botlanak, és a Dawson's Creek kölyök főszereplésével készült American Pie kalamajkára számítanak, valószínűleg sikoltozva fognak kifutni a teremből.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_449",
-        "Sent": "A legnagyobb problémám -LRB- a nagyon lassú iramon kívül -RRB- az, hogy soha nem látjuk Esther virágát színésznőként, annak ellenére, hogy a tehetségének növekednie kellene.",
+        "Sent": "A legnagyobb problémám a nagyon lassú iramon kívül az, hogy soha nem látjuk Esther virágát színésznőként, annak ellenére, hogy a tehetségének növekednie kellene.",
         "Label": "negative"
     },
     {
@@ -2256,7 +2256,7 @@
     },
     {
         "Sent_id": "dev_451",
-        "Sent": "A cselekmény, a karakterek, a dráma, az érzelmek, az ötletek - mind lényegtelenek a Skorpiókirály megtekintésének élménye szempontjából.\r\n\r\n",
+        "Sent": "A cselekmény, a karakterek, a dráma, az érzelmek, az ötletek - mind lényegtelenek a Skorpiókirály megtekintésének élménye szempontjából.",
         "Label": "neutral"
     },
     {
@@ -2266,7 +2266,7 @@
     },
     {
         "Sent_id": "dev_453",
-        "Sent": "De hogy mindezek ellenére hogyan sikerülhetett, az a projekt legfőbb rejtélye.\r\n\r\n",
+        "Sent": "De hogy mindezek ellenére hogyan sikerülhetett, az a projekt legfőbb rejtélye.",
         "Label": "neutral"
     },
     {
@@ -2276,12 +2276,12 @@
     },
     {
         "Sent_id": "dev_455",
-        "Sent": "A Gyilkosság számokkal túlságosan is beleillik a profilba, mivel egy tinithriller és egy krimi hibridje.\r\n\r\n",
+        "Sent": "A Gyilkosság számokkal túlságosan is beleillik a profilba, mivel egy tinithriller és egy krimi hibridje.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_456",
-        "Sent": "Nincs sokkal fájdalmasabb, mint egy viccesnek nem nevezhető film, ami azt hiszi magáról, hogy vicces.\r\n\r\n",
+        "Sent": "Nincs sokkal fájdalmasabb, mint egy viccesnek nem nevezhető film, ami azt hiszi magáról, hogy vicces.",
         "Label": "negative"
     },
     {
@@ -2291,42 +2291,42 @@
     },
     {
         "Sent_id": "dev_458",
-        "Sent": "Milyen kár... hogy ennyire másodosztályú.\r\n\r\n",
+        "Sent": "Milyen kár... hogy ennyire másodosztályú.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_459",
-        "Sent": "Nem egy nagyszerű történet, és az akció sem olyan lebilincselő, mint a korábbi Seagal-filmekben.\r\n\r\n",
+        "Sent": "Nem egy nagyszerű történet, és az akció sem olyan lebilincselő, mint a korábbi Seagal-filmekben.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_460",
-        "Sent": "Az a fajta film, amely után az ember csodálkozva vakarja a fejét azon, hogy ennyi tehetséges ember részt vehetett egy ilyen meggondolatlan és rosszul kivitelezett produkcióban.\r\n\r\n",
+        "Sent": "Az a fajta film, amely után az ember csodálkozva vakarja a fejét azon, hogy ennyi tehetséges ember részt vehetett egy ilyen meggondolatlan és rosszul kivitelezett produkcióban.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_461",
-        "Sent": "Nicks nem akarja, hogy a Slackers-t csak egy újabb tinifilmnek tekintsék, ezért megbocsátható neki, hogy gyakran a durva vígjátékok rajongóinak kedvében jár.\r\n\r\n",
+        "Sent": "Nicks nem akarja, hogy a Slackers-t csak egy újabb tinifilmnek tekintsék, ezért megbocsátható neki, hogy gyakran a durva vígjátékok rajongóinak kedvében jár.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_462",
-        "Sent": "A filmben - talán Elizabeth Hurley melleinek kivételével - semmi sem hiteles.\r\n\r\n",
+        "Sent": "A filmben - talán Elizabeth Hurley melleinek kivételével - semmi sem hiteles.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_463",
-        "Sent": "A klisék és az előre látható történések közepette Cage-nek sikerül megteremtenie egyfajta laza realizmust... amit Blethyn rutinosan felpörget.\r\n\r\n",
+        "Sent": "A klisék és az előre látható történések közepette Cage-nek sikerül megteremtenie egyfajta laza realizmust... amit Blethyn rutinosan felpörget.",
         "Label": "positive"
     },
     {
         "Sent_id": "dev_464",
-        "Sent": "Shafer és társszerzője, Gregory Hinton többnyire nélkülözik a határozott nézőpontot, vagy a humorérzéket.\r\n\r\n",
+        "Sent": "Shafer és társszerzője, Gregory Hinton többnyire nélkülözik a határozott nézőpontot, vagy a humorérzéket.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_465",
-        "Sent": "Egyetlen klisé sem kerüli el a bandaháború tökéletes kezelését, akit Ces Wildnak hívnak.\r\n\r\n",
+        "Sent": "Egyetlen klisé sem kerüli el a bandaháború tökéletes kezelését, akit Ces Wildnak hívnak.",
         "Label": "negative"
     },
     {
@@ -2336,12 +2336,12 @@
     },
     {
         "Sent_id": "dev_467",
-        "Sent": "Szigorúan a `férfiak filmje`, a kifejezés legrosszabb értelmében.\r\n\r\n",
+        "Sent": "Szigorúan a `férfiak filmje`, a kifejezés legrosszabb értelmében.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_468",
-        "Sent": "Van néhány jó epizód a történetben egy kiskereskedelmi eladóról, aki többet akar az élettől, de a film túl gyakran nyúl a megszokott helyzetekhez és ismétlődő jelenetekhez.\r\n\r\n",
+        "Sent": "Van néhány jó epizód a történetben egy kiskereskedelmi eladóról, aki többet akar az élettől, de a film túl gyakran nyúl a megszokott helyzetekhez és ismétlődő jelenetekhez.",
         "Label": "neutral"
     },
     {
@@ -2351,12 +2351,12 @@
     },
     {
         "Sent_id": "dev_470",
-        "Sent": "Van valami gyanús ebben a szezonális gyerekfilmben, aminek a legmeggyőzőbb érzelmi pillanatában, a Mikulás ajándékokat ad a felnőtteknek.",
+        "Sent": "Van valami gyanús ebben a szezonális gyerekfilmben, aminek a legmeggyőzőbb érzelmi pillanatában a Mikulás ajándékokat ad a felnőtteknek.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_471",
-        "Sent": "Egy olyan történetet kapunk, amely megpróbál megragadni minket, azért, hogy aztán a rossz pillanatokban folyton elengedjen.\r\n\r\n",
+        "Sent": "Egy olyan történetet kapunk, amely megpróbál megragadni minket, azért, hogy aztán a rossz pillanatokban folyton elengedjen.",
         "Label": "neutral"
     },
     {
@@ -2371,27 +2371,27 @@
     },
     {
         "Sent_id": "dev_474",
-        "Sent": "A filmnek vannak -LRB- a -RRB- pillanatai, de ezek kevéssé vannak jelen.\r\n\r\n",
+        "Sent": "A filmnek vannak a pillanatai, de ezek kevéssé vannak jelen.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_475",
-        "Sent": "Próbáltam eldönteni, hogy mi bosszantott a legjobban a \"God is Great... I'm Not\"-ban, és aztán rájöttem, hogy egyszerűen nem érdekel.\r\n\r\n",
+        "Sent": "Próbáltam eldönteni, hogy mi bosszantott a legjobban a \"God is Great... I'm Not\"-ban, és aztán rájöttem, hogy egyszerűen nem érdekel.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_476",
-        "Sent": "A filmet a rossz írás, és valószínűleg az utómunkálatok egy része is kisiklatta, hogy a tesztoszteron első teljes fellángolásában lévő fiatal férfiaknak szánhassák.\r\n\r\n",
+        "Sent": "A filmet a rossz írás, és valószínűleg az utómunkálatok egy része is kisiklatta, hogy a tesztoszteron első teljes fellángolásában lévő fiatal férfiaknak szánhassák.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_477",
-        "Sent": "Politikai bátorságáért magas pontszámot érdemel, de művészi érdemei alapján aligha állja meg a helyét.\r\n\r\n",
+        "Sent": "Politikai bátorságáért magas pontszámot érdemel, de művészi érdemei alapján aligha állja meg a helyét.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_478",
-        "Sent": "...csak akkor kel életre, mikor a sebességet szentimentalizmusra váltja.",
+        "Sent": "Csak akkor kel életre, mikor a sebességet szentimentalizmusra váltja.",
         "Label": "neutral"
     },
     {
@@ -2401,12 +2401,12 @@
     },
     {
         "Sent_id": "dev_480",
-        "Sent": "A filmet azok fogják a legjobban értékelni, akik hajlandóak elviselni a rendkívül lomha ritmusát. A Boldogságra várva végül elgondolkodtató, de anélkül, hogy nagy drámai hatása lenne.\r\n\r\n",
+        "Sent": "A filmet azok fogják a legjobban értékelni, akik hajlandóak elviselni a rendkívül lomha ritmusát. A Boldogságra várva végül elgondolkodtató, de anélkül, hogy nagy drámai hatása lenne.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_481",
-        "Sent": "Számomra ez úgy hangzik, mint egy kegyetlen megtévesztés, amelyet alacsony intelligenciájú férfiak hajtanak végre, akiknek reakciós elképzeléseik vannak a nőkről, és teljesen hiányzik belőlük az empátia.\r\n\r\n",
+        "Sent": "Számomra ez úgy hangzik, mint egy kegyetlen megtévesztés, amelyet alacsony intelligenciájú férfiak hajtanak végre, akiknek reakciós elképzeléseik vannak a nőkről, és teljesen hiányzik belőlük az empátia.",
         "Label": "negative"
     },
     {
@@ -2416,12 +2416,12 @@
     },
     {
         "Sent_id": "dev_483",
-        "Sent": "A mutatós kütyük és a pörgős harci jelenetek jól néznek ki, de nem vonják el a figyelmet a hibás tartószerkezetről, amely az Equilibriumot tartja.\r\n\r\n",
+        "Sent": "A mutatós kütyük és a pörgős harci jelenetek jól néznek ki, de nem vonják el a figyelmet a hibás tartószerkezetről, amely az Equilibriumot tartja.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_484",
-        "Sent": "A ZigZag talán több lehetett volna, ha kevésbé sűrű a cselekménye.\r\n\r\n",
+        "Sent": "A ZigZag talán több lehetett volna, ha kevésbé sűrű a cselekménye.",
         "Label": "negative"
     },
     {
@@ -2431,12 +2431,12 @@
     },
     {
         "Sent_id": "dev_486",
-        "Sent": "Valójában egy pornófilm szíve van benne -LRB-, de semmi puszta kéjvágy -RRB-.\r\n\r\n",
+        "Sent": "Valójában egy pornófilm szíve van benne, de semmi puszta kéjvágy.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_487",
-        "Sent": "Nicks és Steinberg a saját alkotásaikkal vetekszik aljasságban - ami a régi főiskolai módszerrel próbálkozik.\r\n\r\n",
+        "Sent": "Nicks és Steinberg a saját alkotásaikkal vetekszik aljasságban - ami a régi főiskolai módszerrel próbálkozik.",
         "Label": "negative"
     },
     {
@@ -2451,7 +2451,7 @@
     },
     {
         "Sent_id": "dev_490",
-        "Sent": "-LRB- Deni -RRB- csupasz csontú narratívája jobban hasonlít egy 70-es évekbeli kizsákmányolási kép vázlatára, mint a késztermékre.",
+        "Sent": "Deni csupasz csontú narratívája jobban hasonlít egy 70-es évekbeli kizsákmányolási kép vázlatára, mint a késztermékre.",
         "Label": "negative"
     },
     {
@@ -2471,22 +2471,17 @@
     },
     {
         "Sent_id": "dev_494",
-        "Sent": "Úgy tűnik, hogy a projekt mantrája az volt, hogy \"ez csak egy gyerekfilm\". '\r\n\r\n",
-        "Label": "negative"
-    },
-    {
-        "Sent_id": "dev_495",
-        "Sent": "Fordítás: \"Nem kell nagyon keményen próbálkoznunk.\"",
+        "Sent": "Úgy tűnik, hogy a projekt mantrája az volt, hogy \"ez csak egy gyerekfilm (Fordítás: \"Nem kell nagyon keményen próbálkoznunk.)\".",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_496",
-        "Sent": "A filmtörténetben kevés alkotás volt ennyire furcsa, megmagyarázhatatlan és kellemetlen.\r\n\r\n",
+        "Sent": "A filmtörténetben kevés alkotás volt ennyire furcsa, megmagyarázhatatlan és kellemetlen.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_497",
-        "Sent": "Nagyon hosszú, lassú és unalmas, időbe telik, amíg rájövünk, miről szól a TUCK EVERLASTING.\r\n\r\n",
+        "Sent": "Nagyon hosszú, lassú és unalmas, időbe telik, amíg rájövünk, miről szól a TUCK EVERLASTING.",
         "Label": "negative"
     },
     {
@@ -2501,7 +2496,7 @@
     },
     {
         "Sent_id": "dev_500",
-        "Sent": "A szerző hívei valószínűleg lenyűgözőnek fogják találni, mások talán zavarba ejtőnek.\r\n\r\n",
+        "Sent": "A szerző hívei valószínűleg lenyűgözőnek fogják találni, mások talán zavarba ejtőnek.",
         "Label": "neutral"
     },
     {
@@ -2511,7 +2506,7 @@
     },
     {
         "Sent_id": "dev_502",
-        "Sent": "Van egy tudományos törvény, amit a gyártóknak jó lenne figyelembe venniük: A középszerű filmek elkezdenek vontatottá válni, amint az akció felgyorsul; amikor a robbanások elkezdődnek, darabokra hullanak.\r\n\r\n",
+        "Sent": "Van egy tudományos törvény, amit a gyártóknak jó lenne figyelembe venniük: A középszerű filmek elkezdenek vontatottá válni, amint az akció felgyorsul; amikor a robbanások elkezdődnek, darabokra hullanak.",
         "Label": "negative"
     },
     {
@@ -2521,12 +2516,12 @@
     },
     {
         "Sent_id": "dev_504",
-        "Sent": "Pompás és gyönyörűen fényképezett -LRB- valaki azt javasolta, hogy az állóképekből egy szép dohányzóasztalos könyvet lehetne készíteni -RRB-, de végül úgy hagyjuk el a mozit, hogy azon tűnődünk, miért is számítanak ezek az emberek.\r\n\r\n",
+        "Sent": "Pompás és gyönyörűen fényképezett valaki azt javasolta, hogy az állóképekből egy szép dohányzóasztalos könyvet lehetne készíteni, de végül úgy hagyjuk el a mozit, hogy azon tűnődünk, miért is számítanak ezek az emberek.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_505",
-        "Sent": "Sajnos a One Hour Photo nem felel meg a címének.\r\n\r\n",
+        "Sent": "Sajnos a One Hour Photo nem felel meg a címének.",
         "Label": "negative"
     },
     {
@@ -2541,52 +2536,52 @@
     },
     {
         "Sent_id": "dev_508",
-        "Sent": "A filmet megbontják az anakronisztikus gyors vágások és a modern színházi közönség zavaró felvillanásai, akik az események kibontakozását figyelik.\r\n\r\n",
+        "Sent": "A filmet megbontják az anakronisztikus gyors vágások és a modern színházi közönség zavaró felvillanásai, akik az események kibontakozását figyelik.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_509",
-        "Sent": "Úgy tűnik, mintha valaki végig csinálná a mozdulatokat.\r\n\r\n",
+        "Sent": "Úgy tűnik, mintha valaki végig csinálná a mozdulatokat.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_510",
-        "Sent": "Egy robbanásokról, halálról és kémekről szóló filmhez képest a \" Ballistic : Ecks vs. Sever \" olyan biztonságosnak tűnik, mint egy gyerekfilm.\r\n\r\n",
+        "Sent": "Egy robbanásokról, halálról és kémekről szóló filmhez képest a \" Ballistic : Ecks vs. Sever \" olyan biztonságosnak tűnik, mint egy gyerekfilm.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_511",
-        "Sent": "Nos, némelyikben még az anyaszarvas is meghal.\r\n\r\n",
+        "Sent": "Nos, némelyikben még az anyaszarvas is meghal.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_512",
-        "Sent": "Wallace időnként kissé nehézkesen fogalmazza meg a mondanivalóját, és a mi ízlésünknek túlságosan is költői a vizuális érzéke.\r\n\r\n",
+        "Sent": "Wallace időnként kissé nehézkesen fogalmazza meg a mondanivalóját, és a mi ízlésünknek túlságosan is költői a vizuális érzéke.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_513",
-        "Sent": "Az Impostor nem sokat kezd a történetével, a figyelemre méltóan erős szereposztás ellenére sem.\r\n",
+        "Sent": "Az Impostor nem sokat kezd a történetével, a figyelemre méltóan erős szereposztás ellenére sem.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_514",
-        "Sent": "Egy sötét és furcsa vígjáték álcájába burkolózik, de nem olyan furcsa, mint amilyennek hiszi magát, és a komédiája általában gonoszkodó.\r\n\r\n",
+        "Sent": "Egy sötét és furcsa vígjáték álcájába burkolózik, de nem olyan furcsa, mint amilyennek hiszi magát, és a komédiája általában gonoszkodó.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_515",
-        "Sent": "Túl hosszú dokumentumfilm az ` Életmódról. '\r\n\r\n",
+        "Sent": "Túl hosszú dokumentumfilm az \"életmódról\".",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_516",
-        "Sent": "Az ember célt vagy akár cselekményt keresve veti alá magát ennek az állítólagos pszichológiai thrillernek a mocsarán.\r\n\r\n",
+        "Sent": "Az ember célt vagy akár cselekményt keresve veti alá magát ennek az állítólagos pszichológiai thrillernek a mocsarán.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_517",
-        "Sent": "Egy film, amely az ismert Herzog-trópusokat egy világos és konvencionális történelmi fikció szolgálatába állítja, holott a rendezőtől valójában azt várnánk, hogy elkápráztasson minket.\r\n\r\n",
+        "Sent": "Egy film, amely az ismert Herzog-trópusokat egy világos és konvencionális történelmi fikció szolgálatába állítja, holott a rendezőtől valójában azt várnánk, hogy elkápráztasson minket.",
         "Label": "neutral"
     },
     {
@@ -2596,7 +2591,7 @@
     },
     {
         "Sent_id": "dev_519",
-        "Sent": "Életre keltve a nagyvásznon.\r\n\r\n",
+        "Sent": "Életre keltve a nagyvásznon.",
         "Label": "neutral"
     },
     {
@@ -2611,17 +2606,17 @@
     },
     {
         "Sent_id": "dev_522",
-        "Sent": "Várj a pay per view-ra vagy a kölcsönzésre, de ne utasítsd el a BarberShopot.\r\n\r\n",
+        "Sent": "Várj a pay per view-ra vagy a kölcsönzésre, de ne utasítsd el a BarberShopot.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_523",
-        "Sent": "Néhány ziccertől eltekintve az írás közömbös, Jordan Brady rendezése pedig prózai.\r\n\r\n",
+        "Sent": "Néhány ziccertől eltekintve az írás közömbös, Jordan Brady rendezése pedig prózai.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_524",
-        "Sent": "Minden jelenet elhúzódik, aláhúzva a nyilvánvalót, elársztva érzelgősséggel.\r\n\r\n",
+        "Sent": "Minden jelenet elhúzódik, aláhúzva a nyilvánvalót, elársztva érzelgősséggel.",
         "Label": "negative"
     },
     {
@@ -2636,12 +2631,12 @@
     },
     {
         "Sent_id": "dev_527",
-        "Sent": "Egyike azoknak a döbbenetesen jól sikerült, örömtelenül extravagáns felvételeknek, amelyek folyton egyik vizuális csodából a másikba repítenek, kapkodva, üresen.\r\n\r\n",
+        "Sent": "Egyike azoknak a döbbenetesen jól sikerült, örömtelenül extravagáns felvételeknek, amelyek folyton egyik vizuális csodából a másikba repítenek, kapkodva, üresen.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_528",
-        "Sent": "Nairnek egyszerűen nincs meg a szükséges önuralma ahhoz, hogy egy laza, rosszul strukturált filmet átvezessen az összefüggéstelenség és a redundancia buktatóin.\r\n\r\n",
+        "Sent": "Nairnek egyszerűen nincs meg a szükséges önuralma ahhoz, hogy egy laza, rosszul strukturált filmet átvezessen az összefüggéstelenség és a redundancia buktatóin.",
         "Label": "negative"
     },
     {
@@ -2656,22 +2651,22 @@
     },
     {
         "Sent_id": "dev_531",
-        "Sent": "Az, hogy egyik főszereplőnek sincs megkülönböztethető állapota, aligha számít, mert mindketten csak színészi koholmányok, amelyeket a gyermeki homály és egy maréknyi furcsaság határoz meg.\r\n\r\n",
+        "Sent": "Az, hogy egyik főszereplőnek sincs megkülönböztethető állapota, aligha számít, mert mindketten csak színészi koholmányok, amelyeket a gyermeki homály és egy maréknyi furcsaság határoz meg.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_532",
-        "Sent": "Úgy kezdődik, mint egy lehetséges Argentine American Beauty, de úgy bűzlik, mint egy büdös virágokkal teli szoba.\r\n\r\n",
+        "Sent": "Úgy kezdődik, mint egy lehetséges argentin Amerikai szépség, de úgy bűzlik, mint egy büdös virágokkal teli szoba.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_533",
-        "Sent": "A filmkészítők elfelejtettek bármi félig-meddig ijesztő dolgot is belevenni, amikor a Fatal Attractiont egy középiskolai környezetbe helyezték át.\r\n\r\n",
+        "Sent": "A filmkészítők elfelejtettek bármi félig-meddig ijesztő dolgot is belevenni, amikor a Fatal Attractiont egy középiskolai környezetbe helyezték át.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_534",
-        "Sent": "Régimódi forgatókönyvírói nyelven szólva, Shreve asszony regénye túl nehéz szövegnek bizonyult ahhoz, hogy \"lenyalják\", az elsőrangú színészek erőfeszítései ellenére.\r\n\r\n",
+        "Sent": "Régimódi forgatókönyvírói nyelven szólva, Shreve asszony regénye túl nehéz szövegnek bizonyult ahhoz, hogy \"lenyalják\", az elsőrangú színészek erőfeszítései ellenére.",
         "Label": "negative"
     },
     {
@@ -2696,72 +2691,72 @@
     },
     {
         "Sent_id": "dev_539",
-        "Sent": "Egy igazán vicces tizenöt perces rövidfilm, amely a határait túllépve egy majdnem egész estés filmet tölt ki.\r\n\r\n",
+        "Sent": "Egy igazán vicces tizenöt perces rövidfilm, amely a határait túllépve egy majdnem egész estés filmet tölt ki.",
         "Label": "positive"
     },
     {
         "Sent_id": "dev_540",
-        "Sent": "Eltekintve szegény Stephen Rea helytelenül hamiskás alakításától és attól, hogy a film idióta módon használja a feardotcom.com weboldalt, további megvetést kap a film, mert szinte lehetetlen végignézni vagy megérteni.\r\n\r\n",
+        "Sent": "Eltekintve szegény Stephen Rea helytelenül hamiskás alakításától és attól, hogy a film idióta módon használja a feardotcom.com weboldalt, további megvetést kap a film, mert szinte lehetetlen végignézni vagy megérteni.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_541",
-        "Sent": "Rossz, de szórakoztatásnak semmiképpen sem érdemtelen.\r\n\r\n",
+        "Sent": "Rossz, de szórakoztatásnak semmiképpen sem érdemtelen.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_542",
-        "Sent": "A 100 perces játékidő alatt hiába vársz rá, hogy megszülessen a film.\r\n\r\n",
+        "Sent": "A 100 perces játékidő alatt hiába vársz rá, hogy megszülessen a film.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_543",
-        "Sent": "Egy olyan mű, amelyből hiányzik a cél és az erős lüktetés.\r\n\r\n",
+        "Sent": "Egy olyan mű, amelyből hiányzik a cél és az erős lüktetés.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_544",
-        "Sent": "Egy gyorsabb tempójú családi film.\r\n\r\n",
+        "Sent": "Egy gyorsabb tempójú családi film.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_545",
-        "Sent": "A Felsőbb Tizenévesek cinikusak lehetnek.\r\n\r\n",
+        "Sent": "A Felsőbb Tizenévesek cinikusak lehetnek.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_546",
-        "Sent": "A kisebb gyerekek élvezni fogják.\r\n\r\n",
+        "Sent": "A kisebb gyerekek élvezni fogják.",
         "Label": "positive"
     },
     {
         "Sent_id": "dev_547",
-        "Sent": "Bár ez a film egy \"A\" listás szereplőgárdával és néhány erős mellékszereplővel rendelkezik, a történet - akárcsak a központi figura, Vivi - nehezen szerethető.\r\n\r\n",
+        "Sent": "Bár ez a film egy \"A\" listás szereplőgárdával és néhány erős mellékszereplővel rendelkezik, a történet - akárcsak a központi figura, Vivi - nehezen szerethető.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_548",
-        "Sent": "Ez egy utazós dráma, túl sok rossz kanyarral.\r\n\r\n",
+        "Sent": "Ez egy utazós dráma, túl sok rossz kanyarral.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_549",
-        "Sent": "A legtöbb halas történet kicsit különös, de ezt az egyet vissza kellene dobni a folyóba.\r\n\r\n",
+        "Sent": "A legtöbb halas történet kicsit különös, de ezt az egyet vissza kellene dobni a folyóba.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_550",
-        "Sent": "Az egész indokolatlanná válik, mintha Schwentke egy bizonyos célközönségnek szánt kvótát teljesítene, ahelyett, hogy az anyagot a történethez igazítaná.\r\n\r\n",
+        "Sent": "Az egész indokolatlanná válik, mintha Schwentke egy bizonyos célközönségnek szánt kvótát teljesítene, ahelyett, hogy az anyagot a történethez igazítaná.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_551",
-        "Sent": "\" Minden férfit hibáztatok a háborúért\" -LRB- az igazgató lánya -RRB- meséli az apjának.\r\n\r\n",
+        "Sent": "\" Minden férfit hibáztatok a háborúért\" az igazgató lánya meséli az apjának.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_552",
-        "Sent": "A film körülbelül olyan mély, mint ez az intelem.\r\n\r\n\r\n",
+        "Sent": "A film körülbelül olyan mély, mint ez az intelem.",
         "Label": "neutral"
     },
     {
@@ -2776,7 +2771,7 @@
     },
     {
         "Sent_id": "dev_555",
-        "Sent": "A történet felénél már kezdtem utálni, és persze bűntudatom is volt miatta... Aztán, csodák csodája, a film csinált egy fordulatot.\r\n\r\n",
+        "Sent": "A történet felénél már kezdtem utálni, és persze bűntudatom is volt miatta... Aztán, csodák csodája, a film csinált egy fordulatot.",
         "Label": "neutral"
     },
     {
@@ -2791,7 +2786,7 @@
     },
     {
         "Sent_id": "dev_558",
-        "Sent": "Eddie Murphyt filmsztárrá tette, és a férfi egy napot sem öregedett.\r\n\r\n",
+        "Sent": "Eddie Murphyt filmsztárrá tette, és a férfi egy napot sem öregedett.",
         "Label": "positive"
     },
     {
@@ -2811,12 +2806,12 @@
     },
     {
         "Sent_id": "dev_562",
-        "Sent": "Egy akciófilmhez képest az Ultimate X a valaha volt legbeszédesebb óriásfilm, amely elmerül a felhajtás áradatában.\r\n\r\n",
+        "Sent": "Egy akciófilmhez képest az Ultimate X a valaha volt legbeszédesebb óriásfilm, amely elmerül a felhajtás áradatában.",
         "Label": "positive"
     },
     {
         "Sent_id": "dev_563",
-        "Sent": "... egy alacsony színvonalú Annie, amelyben valami kölyök játszik, aki nem tud színészkedni, csak Jordan visszhangja. És Crispin Glover, a fura színész, aki elcseszi a dolgokat a régi iskola szerint.",
+        "Sent": "Egy alacsony színvonalú Annie, amelyben valami kölyök játszik, aki nem tud színészkedni, csak Jordan visszhangja. És Crispin Glover, a fura színész, aki elcseszi a dolgokat a régi iskola szerint.",
         "Label": "negative"
     },
     {
@@ -2826,27 +2821,27 @@
     },
     {
         "Sent_id": "dev_565",
-        "Sent": "A film bizonytalannak, hogy egy savanyú, férfias All About Eve vagy egy buja, ájult melodráma akar-e lenni az Intermezzo stílusában.\r\n\r\n",
+        "Sent": "A film bizonytalannak tűnik abban, hogy egy savanyú, férfias All About Eve vagy egy buja, ájult melodráma akar-e lenni az Intermezzo stílusában.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_566",
-        "Sent": "A majdnem 21 - 2 órás, a film túlságosan elnéző.\r\n\r\n",
+        "Sent": "A majdnem 21-2 órás film túlságosan öncélú.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_567",
-        "Sent": "Gyönyörű látvány, de elviselhetetlenül fárasztó és túláradó... egy furcsán szűkszavú eposz.\r\n\r\n",
+        "Sent": "Gyönyörű látvány, de elviselhetetlenül fárasztó és túláradó... egy furcsán szűkszavú eposz.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_568",
-        "Sent": "Sokkal inkább hasonlít egy rajzfilmre, mint a The Simpsons valaha is.\r\n\r\n",
+        "Sent": "Sokkal inkább hasonlít egy rajzfilmre, mint a The Simpsons valaha is.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_569",
-        "Sent": "Szigorúbb szerkesztői eljárással és határozottabb irányítással működhetne, különösen azért, mert a főszereplő színésznők több mint kompetensek lennének, de a Personal Velocity úgy tűnik, hogy üresjáratban.",
+        "Sent": "Szigorúbb szerkesztői eljárással és határozottabb irányítással működhetne, különösen azért, mert a főszereplő színésznők több mint kompetensek lennének, de a Personal Velocity úgy tűnik, hogy üresjáratban van.",
         "Label": "neutral"
     },
     {
@@ -2856,12 +2851,12 @@
     },
     {
         "Sent_id": "dev_571",
-        "Sent": "Inkább a történelmi vagy életrajzi csatornára való, de a film hangvételével nem lehet vitatkozni - rossz szájízt és kérdéseket hagy az emberben.\r\n\r\n",
+        "Sent": "Inkább a történelmi vagy életrajzi csatornára való, de a film hangvételével nem lehet vitatkozni - rossz szájízt és kérdéseket hagy az emberben.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_572",
-        "Sent": "Egy olyan szórakoztatás, amely annyira beleszeretett a túlfújt mitológiájába, hogy már nem ismeri fel a mozilátogatók valódi karakterek és lebilincselő cselekmények iránti igényét.\r\n\r\n",
+        "Sent": "Egy olyan szórakoztatás, amely annyira beleszeretett a túlfújt mitológiájába, hogy már nem ismeri fel a mozilátogatók valódi karakterek és lebilincselő cselekmények iránti igényét.",
         "Label": "negative"
     },
     {
@@ -2871,7 +2866,7 @@
     },
     {
         "Sent_id": "dev_574",
-        "Sent": "Más hasonló filmekből kölcsönöz a leghétköznapibb és legnyilvánvalóbb módon.\r\n\r\n",
+        "Sent": "Más hasonló filmekből kölcsönöz a leghétköznapibb és legnyilvánvalóbb módon.",
         "Label": "negative"
     },
     {
@@ -2881,17 +2876,17 @@
     },
     {
         "Sent_id": "dev_576",
-        "Sent": "Egy hűvös, érzelmileg távoli darab... annyira unalmas, hogy a szlogenje a következő lehetne : ` Az űrben senki sem hallja a horkolást. '\r\n\r\n",
+        "Sent": "Egy hűvös, érzelmileg távoli darab... annyira unalmas, hogy a szlogenje a következő lehetne: \"Az űrben senki sem hallja a horkolást\".",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_577",
-        "Sent": "A karakterek egydimenziósnak tűnnek, a film felszínes, és valószínűleg elsősorban csak a célközönségét fogja érdekelni.\r\n\r\n",
+        "Sent": "A karakterek egydimenziósnak tűnnek, a film felszínes, és valószínűleg elsősorban csak a célközönségét fogja érdekelni.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_578",
-        "Sent": "Sorvino önelégültnek és karikatúraszerűnek tünteti fel a hercegnőt, és a film csak akkor kel életre igazán, amikor szegény Hermokratész és Leontine szánalmasan összemérik bimbózó románcukat.\r\n",
+        "Sent": "Sorvino önelégültnek és karikatúraszerűnek tünteti fel a hercegnőt, és a film csak akkor kel életre igazán, amikor szegény Hermokratész és Leontine szánalmasan összemérik bimbózó románcukat.",
         "Label": "neutral"
     },
     {
@@ -2901,12 +2896,12 @@
     },
     {
         "Sent_id": "dev_580",
-        "Sent": "Elhaladhatsz mellette anélkül, hogy bármi különöset észrevennél, kivéve néhány komikus fordulatot.\r\n",
+        "Sent": "Elhaladhatsz mellette anélkül, hogy bármi különöset észrevennél, kivéve néhány komikus fordulatot.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_581",
-        "Sent": "Mindent - még a repülőgép-hordozón töltött életet is - szentimentalizálják.\r\n\r\n",
+        "Sent": "Mindent - még a repülőgép-hordozón töltött életet is - szentimentalizálják.",
         "Label": "neutral"
     },
     {
@@ -2916,17 +2911,17 @@
     },
     {
         "Sent_id": "dev_583",
-        "Sent": "Stressz 'buta'.",
+        "Sent": "A hangsúly a bután van.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_584",
-        "Sent": "A filmnek vannak általános erényei, de a sok közreműködő tehetség ellenére úgy tűnik, hogy számok alapján készült.\r\n\r\n",
+        "Sent": "A filmnek vannak általános erényei, de a sok közreműködő tehetség ellenére úgy tűnik, hogy számok alapján készült.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_585",
-        "Sent": "Ha a téma az illúzió kontra valóság, nem kellene-e a valóságnak legalább elfogadhatóan valóságosnak tűnnie?\r\n\r\n",
+        "Sent": "Ha a téma az illúzió kontra valóság, nem kellene-e a valóságnak legalább elfogadhatóan valóságosnak tűnnie?",
         "Label": "negative"
     },
     {
@@ -2936,7 +2931,7 @@
     },
     {
         "Sent_id": "dev_587",
-        "Sent": "Betanult kísértetiesség, egyetlen eredeti ötlet, szerep, vágás vagy bármi nélkül. Felveti a kérdést: \"Miért?\".\r\n\r\n",
+        "Sent": "Betanult kísértetiesség, egyetlen eredeti ötlet, szerep, vágás vagy bármi nélkül. Felveti a kérdést: \"Miért?\".",
         "Label": "negative"
     },
     {
@@ -2956,12 +2951,12 @@
     },
     {
         "Sent_id": "dev_591",
-        "Sent": "Bármennyire is nevettem a film alatt, nem tudom meggyőzően megvédeni a filmet, mint szórakoztatást, vagy akár előadóművészetet, bár  csodálattal tölt el, ahogy ezek a fickók emberfeletti módon képesek elviselni a fájdalmat.\r\n\r\n\r\n",
+        "Sent": "Bármennyire is nevettem a film alatt, nem tudom meggyőzően megvédeni a filmet, mint szórakoztatást, vagy akár előadóművészetet, bár  csodálattal tölt el, ahogy ezek a fickók emberfeletti módon képesek elviselni a fájdalmat.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_592",
-        "Sent": "A sztereotípiáknak az a fajta lebutított gyakorlata, amely miatt a tinivígjátékok műfaja rossz hírnévre tesz szert.\r\n\r\n",
+        "Sent": "A sztereotípiáknak az a fajta lebutított gyakorlata, amely miatt a tinivígjátékok műfaja rossz hírnévre tesz szert.",
         "Label": "negative"
     },
     {
@@ -2971,7 +2966,7 @@
     },
     {
         "Sent_id": "dev_594",
-        "Sent": "Olyan mint a Dawson's Creek túlérett epizódjának és a Love Story újrahasznosított és lebutított változatának rossz keveréke.\r\n\r\n",
+        "Sent": "Olyan mint a Dawson's Creek túlérett epizódjának és a Love Story újrahasznosított és lebutított változatának rossz keveréke.",
         "Label": "negative"
     },
     {
@@ -2981,7 +2976,7 @@
     },
     {
         "Sent_id": "dev_596",
-        "Sent": "Amikor a film szereposztására kiírták a felhívást, az állhatott benne, hogy \"keresünk mindenkit, aki színészi ambíciókkal rendelkezik, de nincs büszkeségérzete vagy szégyenérzete\".\r\n\r\n",
+        "Sent": "Amikor a film szereposztására kiírták a felhívást, az állhatott benne, hogy \"keresünk mindenkit, aki színészi ambíciókkal rendelkezik, de nincs büszkeségérzete vagy szégyenérzete\".",
         "Label": "negative"
     },
     {
@@ -3005,11 +3000,6 @@
         "Label": "negative"
     },
     {
-        "Sent_id": "dev_601",
-        "Sent": "Hé, Arnold!",
-        "Label": "neutral"
-    },
-    {
         "Sent_id": "dev_602",
         "Sent": "Van némi vizuális szellemessége, de kevés a képzelőereje.",
         "Label": "neutral"
@@ -3021,7 +3011,7 @@
     },
     {
         "Sent_id": "dev_604",
-        "Sent": "A lassú tempó és a valódi narratíva hiánya ugyanúgy beszorítja a filmet, mint ahogy az élet beszorítja a fiatal nők lelkét.\r\n\r\n",
+        "Sent": "A lassú tempó és a valódi narratíva hiánya ugyanúgy beszorítja a filmet, mint ahogy az élet beszorítja a fiatal nők lelkét.",
         "Label": "negative"
     },
     {
@@ -3031,12 +3021,12 @@
     },
     {
         "Sent_id": "dev_606",
-        "Sent": "De egy jobb filmben talán észre sem vetted volna.\r\n\r\n",
+        "Sent": "De egy jobb filmben talán észre sem vetted volna.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_607",
-        "Sent": "Az ilyen agyatlan szemét miatt értékeljük az olyan eredeti romantikus vígjátékokat, mint a Punch-Drunk Love.\r\n\r\n",
+        "Sent": "Az ilyen agyatlan szemét miatt értékeljük az olyan eredeti romantikus vígjátékokat, mint a Punch-Drunk Love.",
         "Label": "negative"
     },
     {
@@ -3051,12 +3041,12 @@
     },
     {
         "Sent_id": "dev_610",
-        "Sent": "Megfelelő a megjelenés és a korhűség, de egyébként belefullad a vizuális és verbális klisék tengerébe.\r\n\r\n",
+        "Sent": "Megfelelő a megjelenés és a korhűség, de egyébként belefullad a vizuális és verbális klisék tengerébe.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_611",
-        "Sent": "Nehéz vitatkozni egy olyan filmmel, amely ennyi valódi kacagással büszkélkedhet, de a Notorious C.H.O. még mindig befejezetlen munkának tűnik.\r\n\r\n",
+        "Sent": "Nehéz vitatkozni egy olyan filmmel, amely ennyi valódi kacagással büszkélkedhet, de a Notorious C.H.O. még mindig befejezetlen munkának tűnik.",
         "Label": "neutral"
     },
     {
@@ -3066,7 +3056,7 @@
     },
     {
         "Sent_id": "dev_613",
-        "Sent": "A probléma A kenyér, édesemmel az, hogy túlságosan szentimentális.\r\n\r\n",
+        "Sent": "A probléma A kenyér, édesemmel az, hogy túlságosan szentimentális.",
         "Label": "negative"
     },
     {
@@ -3081,17 +3071,17 @@
     },
     {
         "Sent_id": "dev_616",
-        "Sent": "Soha nem inspirál többet az érdeklődő távolságtartásnál.\r\n\r\n",
+        "Sent": "Soha nem inspirál többet az érdeklődő távolságtartásnál.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_617",
-        "Sent": "Ami Woody Allen vagy Mel Brooks kezében -LRB- legalábbis a '70-es évek fénykorában -RRB- fergeteges őrültségnek tűnhetett volna, az ebben a debütáló indie filmben bénának és idétlennek hat.\r\n\r\n",
+        "Sent": "Ami Woody Allen vagy Mel Brooks kezében legalábbis a '70-es évek fénykorában fergeteges őrültségnek tűnhetett volna, az ebben a debütáló indie filmben bénának és idétlennek hat.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_618",
-        "Sent": "A dörzsölt produkciós értékek és Roger Michell rendező ketyegő tempója ellenére a végeredmény olyan, mintha két fickó két órán keresztül ordibálna az arcodba.\r\n\r\n",
+        "Sent": "A dörzsölt produkciós értékek és Roger Michell rendező ketyegő tempója ellenére a végeredmény olyan, mintha két fickó két órán keresztül ordibálna az arcodba.",
         "Label": "negative"
     },
     {
@@ -3171,7 +3161,7 @@
     },
     {
         "Sent_id": "dev_634",
-        "Sent": "A szokásos telefonos üzletmenet.\r\n\r\n",
+        "Sent": "A szokásos telefonos üzletmenet.",
         "Label": "neutral"
     },
     {
@@ -3181,12 +3171,12 @@
     },
     {
         "Sent_id": "dev_636",
-        "Sent": "Azt a kis hangulatot, amit az árnyékos megvilágítás, a hátborzongató díszletek és a végtelen eső kelt, ellensúlyozza minden más puszta rondasága.\r\n\r\n",
+        "Sent": "Azt a kis hangulatot, amit az árnyékos megvilágítás, a hátborzongató díszletek és a végtelen eső kelt, ellensúlyozza minden más puszta rondasága.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_637",
-        "Sent": "Gabriele Muccino rendező-szakács tartja a tempót - pörgősen közeledik feléd - , mintha attól tartana, hogy filmje nagyon felületes.\r\n\r\n",
+        "Sent": "Gabriele Muccino rendező-szakács tartja a tempót - pörgősen közeledik feléd - , mintha attól tartana, hogy filmje nagyon felületes.",
         "Label": "neutral"
     },
     {
@@ -3226,12 +3216,12 @@
     },
     {
         "Sent_id": "dev_645",
-        "Sent": "Vagy pedig kacsint egy kutyus .\r\n\r\n",
+        "Sent": "Vagy pedig kacsint egy kutyus .",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_646",
-        "Sent": "A \"Girls Gone Wild\" videó a boho art-house közönség számára, a The Burning Sensation nem egy végleges ellenkulturális dokumentum - a készítői nem elég távolságtartóak és kíváncsiak ehhez.\r\n\r\n\r\n",
+        "Sent": "A \"Girls Gone Wild\" videó a boho art-house közönség számára, a The Burning Sensation nem egy végleges ellenkulturális dokumentum - a készítői nem elég távolságtartóak és kíváncsiak ehhez.",
         "Label": "neutral"
     },
     {
@@ -3256,12 +3246,12 @@
     },
     {
         "Sent_id": "dev_651",
-        "Sent": "A felszíni attrakciók ellenére - Conrad L. Hall operatőri munkáját jövőre valószínűleg Oscar-díjra fogják jelölni - van benne valami lenyűgöző és mégis hiányzik belőle minden.\r\n\r\n",
+        "Sent": "A felszíni attrakciók ellenére - Conrad L. Hall operatőri munkáját jövőre valószínűleg Oscar-díjra fogják jelölni - van benne valami lenyűgöző és mégis hiányzik belőle minden.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_652",
-        "Sent": "Egy önelégült és nyakatekert akció-vígjáték, ami a komoly pillanatoknál sem felejt el emlékeztetni a közönséget, hogy ez csak egy film.",
+        "Sent": "Egy önelégült és nyakatekert akció-vígjáték, ami a komoly pillanatoknál sem felejti el emlékeztetni a közönséget, hogy ez csak egy film.",
         "Label": "negative"
     },
     {
@@ -3281,7 +3271,7 @@
     },
     {
         "Sent_id": "dev_656",
-        "Sent": "Menj a La Salle előadására és boldogulj a dadogós forgatókönyvvel.\r\n\r\n",
+        "Sent": "Menj a La Salle előadására és boldogulj a dadogós forgatókönyvvel.",
         "Label": "negative"
     },
     {
@@ -3311,7 +3301,7 @@
     },
     {
         "Sent_id": "dev_662",
-        "Sent": "Az alakítások rendben vannak, de nincs benne elég szufla ahhoz, hogy 90 percen keresztül fenntartsa az érdeklődést, főleg a gyenge befejezés miatt. ",
+        "Sent": "Az alakítások rendben vannak, de nincs benne elég szufla ahhoz, hogy 90 percen keresztül fenntartsa az érdeklődést, főleg a gyenge befejezés miatt.",
         "Label": "neutral"
     },
     {
@@ -3351,17 +3341,17 @@
     },
     {
         "Sent_id": "dev_670",
-        "Sent": "Ez a fajta aranyos és nyálas anyag távol áll Zhang erősségétől, és ez meg is látszik rajta.\r\n\r\n",
+        "Sent": "Ez a fajta aranyos és nyálas anyag távol áll Zhang erősségétől, és ez meg is látszik rajta.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_671",
-        "Sent": "Bray teljesen tanácstalan; mivel az önéletrajzában a Savage Garden klipjén kívül semmi más nincs; fogalma sincs a filmkészítésről.\r\n\r\n",
+        "Sent": "Bray teljesen tanácstalan; mivel az önéletrajzában a Savage Garden klipjén kívül semmi más nincs; fogalma sincs a filmkészítésről.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_672",
-        "Sent": "Freundlich -LRB- Crudupot -RRB- külvárosi építészetté és rejtélyessé tette.\r\n\r\n",
+        "Sent": "Freundlich Crudupot külvárosi építészetté és rejtélyessé tette.",
         "Label": "neutral"
     },
     {
@@ -3371,37 +3361,37 @@
     },
     {
         "Sent_id": "dev_674",
-        "Sent": "Bár úgy tesz, mintha a férfi szélhámosok életét tárná fel, kizsigerelő, de nem mélyreható.\r\n\r\n",
+        "Sent": "Bár úgy tesz, mintha a férfi szélhámosok életét tárná fel, kizsigerelő, de nem mélyreható.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_675",
-        "Sent": "Egyenesen a legkevésbé igényes demográfiai csoportot célozza meg: a nagyon kicsi gyerekeket, akik örömmel töltenek el több időt az ismerős rajzfilmfigurákkal.\r\n\r\n",
+        "Sent": "Egyenesen a legkevésbé igényes demográfiai csoportot célozza meg: a nagyon kicsi gyerekeket, akik örömmel töltenek el több időt az ismerős rajzfilmfigurákkal.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_676",
-        "Sent": "Ami egy kielégítő gyerekfilmnek indul, az egyre hiteltelenebbé válik, ahogyan a mesterkélt cselekménypontokon keresztül száguld.\r\n\r\n",
+        "Sent": "Ami egy kielégítő gyerekfilmnek indul, az egyre hiteltelenebbé válik, ahogyan a mesterkélt cselekménypontokon keresztül száguld.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_677",
-        "Sent": "A szappanoperákra jellemző sekélyes szenzációhajhászás... inkább pikáns telenovella, mint komoly dráma.\r\n\r\n",
+        "Sent": "A szappanoperákra jellemző sekélyes szenzációhajhászás... inkább pikáns telenovella, mint komoly dráma.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_678",
-        "Sent": "Seagal fájdalmasan ostoba, amikor megpróbálja megtartani azt, ami megmaradt a múló harcművészfilmes dicsőségéből.\r\n\r\n",
+        "Sent": "Seagal fájdalmasan ostoba, amikor megpróbálja megtartani azt, ami megmaradt a múló harcművészfilmes dicsőségéből.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_679",
-        "Sent": "Még Harris erőfeszítése ellenére is, a forgatókönyv kevés lehetőséget ad neki, hogy hatékonyan megvizsgálja Lear lélekromboló összeomlását.\r\n\r\n",
+        "Sent": "Még Harris erőfeszítése ellenére is, a forgatókönyv kevés lehetőséget ad neki, hogy hatékonyan megvizsgálja Lear lélekromboló összeomlását.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_680",
-        "Sent": "A történet kamu, a karakterek pedig szövetvékonyak.\r\n\r\n",
+        "Sent": "A történet kamu, a karakterek pedig szövetvékonyak.",
         "Label": "negative"
     },
     {
@@ -3421,7 +3411,7 @@
     },
     {
         "Sent_id": "dev_684",
-        "Sent": "Képzelj el egy filmet, amely úgy kezdődik, mint a Hetedik koppintás, hogy aztán átváltozzon A Ragyogás, A dolog és bármelyik nyolcvanas évekbeli meztelen tinédzser horrorfilm keverékére.\r\n\r\n",
+        "Sent": "Képzelj el egy filmet, amely úgy kezdődik, mint a Hetedik koppintás, hogy aztán átváltozzon A Ragyogás, A dolog és bármelyik nyolcvanas évekbeli meztelen tinédzser horrorfilm keverékére.",
         "Label": "neutral"
     },
     {
@@ -3431,7 +3421,7 @@
     },
     {
         "Sent_id": "dev_686",
-        "Sent": "Costner langyos tej személyisége éppúgy nem illik a filmhez, mint Shadyac felületes rendezése, és néhány nyíltan ostoba párbeszéd Laurence Olivier-t is elsüllyesztené.\r\n\r\n",
+        "Sent": "Costner langyos tej személyisége éppúgy nem illik a filmhez, mint Shadyac felületes rendezése, és néhány nyíltan ostoba párbeszéd Laurence Olivier-t is elsüllyesztené.",
         "Label": "negative"
     },
     {
@@ -3441,7 +3431,7 @@
     },
     {
         "Sent_id": "dev_688",
-        "Sent": "A rendező Kevin Bray, akinek éles képkockái és kameramunkája, valamint a színészi játékkal, a hangszínnel és a tempóval kapcsolatos nagyfokú ügyetlensége nagyon nyilvánvalóan azt jelzi, hogy videós rendezőként debütál.\r\n\r\n",
+        "Sent": "A rendező Kevin Bray, akinek éles képkockái és kameramunkája, valamint a színészi játékkal, a hangszínnel és a tempóval kapcsolatos nagyfokú ügyetlensége nagyon nyilvánvalóan azt jelzi, hogy videós rendezőként debütál.",
         "Label": "neutral"
     },
     {
@@ -3461,7 +3451,7 @@
     },
     {
         "Sent_id": "dev_692",
-        "Sent": "Az 1986-os Harlemben játszódik, amely nem nagyon hasonlít New Yorkra.\r\n\r\n",
+        "Sent": "Az 1986-os Harlemben játszódik, amely nem nagyon hasonlít New Yorkra.",
         "Label": "neutral"
     },
     {
@@ -3471,12 +3461,12 @@
     },
     {
         "Sent_id": "dev_694",
-        "Sent": "Sok a csillogó szemű közelkép és kevés a szégyenérzet.\r\n\r\n",
+        "Sent": "Sok a csillogó szemű közelkép és kevés a szégyenérzet.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_695",
-        "Sent": "A hip-hop ritkán kel életre saját, tűzokádó entitásként ebben a filmben.\r\n\r\n",
+        "Sent": "A hip-hop ritkán kel életre saját, tűzokádó entitásként ebben a filmben.",
         "Label": "neutral"
     },
     {
@@ -3486,7 +3476,7 @@
     },
     {
         "Sent_id": "dev_697",
-        "Sent": "Megérdemli a kritikus visszhangot és még többet is.\r\n\r\n",
+        "Sent": "Megérdemli a kritikus visszhangot és még többet is.",
         "Label": "negative"
     },
     {
@@ -3506,7 +3496,7 @@
     },
     {
         "Sent_id": "dev_701",
-        "Sent": "A film több időt tölt Schneiderrel, mint az újonc McAdamsszel, annak ellenére, hogy előadása sokkal érdekesebb -LRB- és viccesebb -RRB-, mint az övé.",
+        "Sent": "A film több időt tölt Schneiderrel, mint az újonc McAdamsszel, annak ellenére, hogy előadása sokkal érdekesebb és viccesebb, mint az övé.",
         "Label": "neutral"
     },
     {
@@ -3531,7 +3521,7 @@
     },
     {
         "Sent_id": "dev_706",
-        "Sent": "A Benjamin számos eleme olyan, mintha a Miami Vice egyik epizódjából vették volna át.\r\n\r\n",
+        "Sent": "A Benjamin számos eleme olyan, mintha a Miami Vice egyik epizódjából vették volna át.",
         "Label": "neutral"
     },
     {
@@ -3546,7 +3536,7 @@
     },
     {
         "Sent_id": "dev_709",
-        "Sent": "Ha nem rajongsz Steve és Terri kalandjaiért, ezt úgy kerüld, mint a rettegett barna királykígyót.\r\n\r\n",
+        "Sent": "Ha nem rajongsz Steve és Terri kalandjaiért, ezt úgy kerüld, mint a rettegett barna királykígyót.",
         "Label": "negative"
     },
     {
@@ -3576,7 +3566,7 @@
     },
     {
         "Sent_id": "dev_715",
-        "Sent": "...szeptember 11-e után A rettegés arénája sokkal giccsesebbnek és elítélendőbbnek tűnik, hiszen anélkül manipulálja a kollektív félelmünket, hogy az alanyt olyan intelligenciával vagy őszinteséggel ruháznánk fel, amit egyértelműen megérdemelne.",
+        "Sent": "Szeptember 11-e után A rettegés arénája sokkal giccsesebbnek és elítélendőbbnek tűnik, hiszen anélkül manipulálja a kollektív félelmünket, hogy az alanyt olyan intelligenciával vagy őszinteséggel ruháznánk fel, amit egyértelműen megérdemelne.",
         "Label": "neutral"
     },
     {
@@ -3586,7 +3576,7 @@
     },
     {
         "Sent_id": "dev_717",
-        "Sent": "Akárhogy is nézzük, Mark Wahlberg és Thandie Newton nem Hepburn és Grant, két filmes ikon óriási kémiával.\r\n\r\n",
+        "Sent": "Akárhogy is nézzük, Mark Wahlberg és Thandie Newton nem Hepburn és Grant, két filmes ikon óriási kémiával.",
         "Label": "positive"
     },
     {
@@ -3626,12 +3616,12 @@
     },
     {
         "Sent_id": "dev_725",
-        "Sent": "Kline erőfeszítése, hogy valami méltóságot adjon a buta történetnek, hiábavaló. ",
+        "Sent": "Kline erőfeszítése, hogy valami méltóságot adjon a buta történetnek, hiábavaló.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_726",
-        "Sent": "Egy kedélyes vígjáték, amely keményen próbálkozik, hogy a legtöbbet hozza ki hatalmas a szereplőgárdából, de soha nem jön igazán lendületbe.",
+        "Sent": "Egy kedélyes vígjáték, amely keményen próbálkozik, hogy a legtöbbet hozza ki a hatalmas szereplőgárdából, de soha nem jön igazán lendületbe.",
         "Label": "negative"
     },
     {
@@ -3701,7 +3691,7 @@
     },
     {
         "Sent_id": "dev_740",
-        "Sent": "Elkalandozó, a tempója jégkorszakii és gyakran szimplán unalmas.",
+        "Sent": "Elkalandozó, a tempója jégkorszaki és gyakran szimplán unalmas.",
         "Label": "negative"
     },
     {
@@ -3861,7 +3851,7 @@
     },
     {
         "Sent_id": "dev_772",
-        "Sent": "Rosenthal -LRB- Halloween II -RRB-, úgy tűnik, hogy elfelejtett mindent, amit valaha is tudott feszültségkeltésről.",
+        "Sent": "Rosenthal Halloween II, úgy tűnik, hogy elfelejtett mindent, amit valaha is tudott feszültségkeltésről.",
         "Label": "negative"
     },
     {
@@ -3996,7 +3986,7 @@
     },
     {
         "Sent_id": "dev_799",
-        "Sent": "Gyakran elnyújtja a nyilvánvaló dolgokat, mint pl. az eljegyzés, ami miatt az És ott hány óra van?-ból Hány óra van még hátra a filmből? lesz.\r\n",
+        "Sent": "Gyakran elnyújtja a nyilvánvaló dolgokat, mint pl. az eljegyzés, ami miatt az És ott hány óra van?-ból Hány óra van még hátra a filmből? lesz.",
         "Label": "negative"
     },
     {
@@ -4061,12 +4051,12 @@
     },
     {
         "Sent_id": "dev_812",
-        "Sent": "A Dobszólóban lévő zenekari fellépések szinte izzanak a tűztől... pusztán a történet szempontjából -LRB- azonban -RRB- a film jéghideg.",
+        "Sent": "A Dobszólóban lévő zenekari fellépések szinte izzanak a tűztől... pusztán a történet szempontjából azonban a film jéghideg.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_813",
-        "Sent": "... arra a feltevésre alapozva, hogy a középosztálybeli Arkansasban csak monster truck-rajongó srácok és hidrogénszőke lányok élnek, akiknek világról alkotott ismeretei a tévéismétlésekből és bolti bulvárlapokból származnak.",
+        "Sent": "Arra a feltevésre alapozva, hogy a középosztálybeli Arkansasban csak monster truck-rajongó srácok és hidrogénszőke lányok élnek, akiknek világról alkotott ismeretei a tévéismétlésekből és bolti bulvárlapokból származnak.",
         "Label": "neutral"
     },
     {
@@ -4091,7 +4081,7 @@
     },
     {
         "Sent_id": "dev_818",
-        "Sent": "...olyannyira ismerős és kiszámítható, hogy a film 4/5-e simán kijöhetett volna egy Xeroxból is -LRB- az író-rendező -RB- Franc helyett.",
+        "Sent": "Olyannyira ismerős és kiszámítható, hogy a film 4/5-e simán kijöhetett volna egy Xeroxból is az író-rendező -RB- Franc helyett.",
         "Label": "negative"
     },
     {
@@ -4171,17 +4161,17 @@
     },
     {
         "Sent_id": "dev_834",
-        "Sent": "Ennek a reakciós thrillernek a durvaságát csak az előzmény nevetséges volta múlja felül.\r\n\r\n",
+        "Sent": "Ennek a reakciós thrillernek a durvaságát csak az előzmény nevetséges volta múlja felül.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_835",
-        "Sent": "Bárcsak jobban túlzásba vitték volna, ahelyett, hogy mindkettőre törekedtek volna.\r\n\r\n",
+        "Sent": "Bárcsak jobban túlzásba vitték volna, ahelyett, hogy mindkettőre törekedtek volna.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_836",
-        "Sent": "A felsőbbrendű cselekményvonal nem elég ahhoz, hogy magával rántsa a halott -LRB- víz -RRB- súlyát a másiknak.",
+        "Sent": "A felsőbbrendű cselekményvonal nem elég ahhoz, hogy magával rántsa a halott víz súlyát a másiknak.",
         "Label": "negative"
     },
     {
@@ -4201,7 +4191,7 @@
     },
     {
         "Sent_id": "dev_840",
-        "Sent": "` Linklater rajongók, vagy nagyképű, avantgárdnak látszani akaró típusok fogják felszippantani ezt a projektet... '.\r\n\r\n",
+        "Sent": "` Linklater rajongók, vagy nagyképű, avantgárdnak látszani akaró típusok fogják felszippantani ezt a projektet... '.",
         "Label": "neutral"
     },
     {
@@ -4211,7 +4201,7 @@
     },
     {
         "Sent_id": "dev_842",
-        "Sent": "Chris ver Weil forgatókönyvíró rendezői debütálása jóindulatú és érdekes, de erényeit könnyen beárnyékolja a kiszámíthatóság.\r\n\r\n",
+        "Sent": "Chris ver Weil forgatókönyvíró rendezői debütálása jóindulatú és érdekes, de erényeit könnyen beárnyékolja a kiszámíthatóság.",
         "Label": "neutral"
     },
     {
@@ -4251,7 +4241,7 @@
     },
     {
         "Sent_id": "dev_850",
-        "Sent": "-LRB- A film -RRB- hajlama a \"sokkoló humorra\" mindenkit megvisel, kivéve azokat, akik Tom Green és a Farrelly testvérek vígjátékain nőttek fel.",
+        "Sent": "A film hajlama a \"sokkoló humorra\" mindenkit megvisel, kivéve azokat, akik Tom Green és a Farrelly testvérek vígjátékain nőttek fel.",
         "Label": "neutral"
     },
     {
@@ -4341,7 +4331,7 @@
     },
     {
         "Sent_id": "dev_868",
-        "Sent": "-LRB- Gayton forgatókönyve -RRB- minden felfedezést és réteget a kényelem mázával von be.",
+        "Sent": "Gayton forgatókönyve minden felfedezést és réteget a kényelem mázával von be.",
         "Label": "neutral"
     },
     {
@@ -4486,7 +4476,7 @@
     },
     {
         "Sent_id": "dev_897",
-        "Sent": "\"Nem lenne jó, ha minden srác belekóstolhatna, milyen a melltartó másik oldalán lenni?\"",
+        "Sent": "Nem lenne jó, ha minden srác belekóstolhatna, milyen a melltartó másik oldalán lenni?",
         "Label": "neutral"
     },
     {
@@ -4521,11 +4511,6 @@
     },
     {
         "Sent_id": "dev_904",
-        "Sent": "Minden viccet legalább négyszer megismételnek.",
-        "Label": "negative"
-    },
-    {
-        "Sent_id": "dev_905",
         "Sent": "Minden viccet legalább négyszer megismételnek.",
         "Label": "negative"
     },
@@ -4676,7 +4661,7 @@
     },
     {
         "Sent_id": "dev_935",
-        "Sent": "Egy pokoli káosz, amit az a szánalmas ötlet vezérel, hogy ha valamit rossz minőségben veszel fel, akkor az rögtön ,,menő\", ,,innovatív\" és ,,reális\" lesz.",
+        "Sent": "Egy pokoli káosz, amit az a szánalmas ötlet vezérel, hogy ha valamit rossz minőségben veszel fel, akkor az rögtön menő, innovatív és reális lesz.",
         "Label": "negative"
     },
     {
@@ -4711,7 +4696,7 @@
     },
     {
         "Sent_id": "dev_942",
-        "Sent": "Módszeresen halad előre, azt feltételezve, hogy a ,,halott feleség kommunikál a síron túlról\"-klisé legalább egy kicsit is új vagy érdekes.",
+        "Sent": "Módszeresen halad előre, azt feltételezve, hogy a halott feleség kommunikál a síron túlról klisé legalább egy kicsit is új vagy érdekes.",
         "Label": "negative"
     },
     {
@@ -4726,7 +4711,7 @@
     },
     {
         "Sent_id": "dev_945",
-        "Sent": "...egész tűrhető egy bírósági lövöldözős filmhez képest.",
+        "Sent": "Egész tűrhető egy bírósági lövöldözős filmhez képest.",
         "Label": "neutral"
     },
     {
@@ -4766,17 +4751,17 @@
     },
     {
         "Sent_id": "dev_953",
-        "Sent": "A csupasz hasú generáció Dilibogyók - Táborparádéja.\r\n",
+        "Sent": "A csupasz hasú generáció Dilibogyók - Táborparádéja.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_954",
-        "Sent": "Fisher Stevens rendező látszólag undorodva a lusta anyagtól és a késztermék formabontó kinézetétől, a Waking Life - megmagyarázhatatlan módon - vízfestékkel mártja be a film kulcsmomentumait.\r\n\r\n",
+        "Sent": "Fisher Stevens rendező látszólag undorodva a lusta anyagtól és a késztermék formabontó kinézetétől, a Waking Life - megmagyarázhatatlan módon - vízfestékkel mártja be a film kulcsmomentumait.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_955",
-        "Sent": "A Formula 51 egy újfajta elszállást ígér, de ugyanazt a régi rossz tripet nyújtja.\r\n\r\n",
+        "Sent": "A Formula 51 egy újfajta elszállást ígér, de ugyanazt a régi rossz tripet nyújtja.",
         "Label": "negative"
     },
     {
@@ -4786,12 +4771,12 @@
     },
     {
         "Sent_id": "dev_957",
-        "Sent": "Néhány energikus kaszkadőrjelenet rövid időre feldobja a filmet, de a ziháló terrorista mellékszálnak nincs elég kitartása a 100 perces játékidőhöz, és a főszereplők bohém bohóckodása elrontja a tiszta szórakozás szellemét.\r\n\r\n",
+        "Sent": "Néhány energikus kaszkadőrjelenet rövid időre feldobja a filmet, de a ziháló terrorista mellékszálnak nincs elég kitartása a 100 perces játékidőhöz, és a főszereplők bohém bohóckodása elrontja a tiszta szórakozás szellemét.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_958",
-        "Sent": "A film producere Jerry Bruckheimer, rendezője Joel Schumacher volt, filmjük pedig sekélyes stílusuk legrosszabbját tükrözi : vadul túltermelt, minden lépésnél elégtelenül motivált, és demográfiailag úgy célzott, hogy mindenki -LRB- és egyúttal senki -RRB- kedvében sem járjon.\r\n\r\n",
+        "Sent": "A film producere Jerry Bruckheimer, rendezője Joel Schumacher volt, filmjük pedig sekélyes stílusuk legrosszabbját tükrözi : vadul túltermelt, minden lépésnél elégtelenül motivált, és demográfiailag úgy célzott, hogy mindenki és egyúttal senki kedvében sem járjon.",
         "Label": "negative"
     },
     {
@@ -4801,7 +4786,7 @@
     },
     {
         "Sent_id": "dev_960",
-        "Sent": "Durva, közhelyes és nehézkes ez a jelentéktelen romantikus vígjáték, amelyben az ellentétek csak azért vonzzák egymást, mert a forgatókönyv ezt kívánja, és amely elpazarolja a sztárok, Hugh Grant és Sandra Bullock báját.\r\n\r\n",
+        "Sent": "Durva, közhelyes és nehézkes ez a jelentéktelen romantikus vígjáték, amelyben az ellentétek csak azért vonzzák egymást, mert a forgatókönyv ezt kívánja, és amely elpazarolja a sztárok, Hugh Grant és Sandra Bullock báját.",
         "Label": "negative"
     },
     {
@@ -4811,17 +4796,17 @@
     },
     {
         "Sent_id": "dev_962",
-        "Sent": "Az, hogy mennyire hatják meg Önt -LRB- François és Michèle -RRB- kapcsolatának érzelmi viharai, nagyban függ attól, mennyire találja őket érdekesnek és szimpatikusnak.\r\n\r\n",
+        "Sent": "Az, hogy mennyire hatják meg Önt François és Michèle kapcsolatának érzelmi viharai, nagyban függ attól, mennyire találja őket érdekesnek és szimpatikusnak.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_963",
-        "Sent": "30 perc után összeomlik a kamaszos erőszak pofonegyszerű sorozatává.\r\n\r\n",
+        "Sent": "30 perc után összeomlik a kamaszos erőszak pofonegyszerű sorozatává.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_964",
-        "Sent": "A következő dolgok egyáltalán nem szórakoztatóak : a rossz hangzás, a csúcspont hiánya, és ami a legrosszabb, végignézni, ahogy Seinfeld -LRB-, aki egyben a film egyik producere is -RRB- mindent megtesz, hogy jófiúnak tűnjön.\r\n\r\n",
+        "Sent": "A következő dolgok egyáltalán nem szórakoztatóak : a rossz hangzás, a csúcspont hiánya, és ami a legrosszabb, végignézni, ahogy Seinfeld, aki egyben a film egyik producere is mindent megtesz, hogy jófiúnak tűnjön.",
         "Label": "negative"
     },
     {
@@ -4836,7 +4821,7 @@
     },
     {
         "Sent_id": "dev_967",
-        "Sent": "A legmeglepőbb dolog ezzel a filmmel kapcsolatban az, hogy valóban bemutatják a mozikban.\r\n\r\n",
+        "Sent": "A legmeglepőbb dolog ezzel a filmmel kapcsolatban az, hogy valóban bemutatják a mozikban.",
         "Label": "negative"
     },
     {
@@ -4866,7 +4851,7 @@
     },
     {
         "Sent_id": "dev_973",
-        "Sent": "Egy kifejezetten jelentéktelen próbálkozás, amely a kábelcsatornákon jobban fog érvényesülni, különösen, ha figyelembe vesszük az alig egyórás játékidőt.\r\n\r\n",
+        "Sent": "Egy kifejezetten jelentéktelen próbálkozás, amely a kábelcsatornákon jobban fog érvényesülni, különösen, ha figyelembe vesszük az alig egyórás játékidőt.",
         "Label": "negative"
     },
     {
@@ -4876,7 +4861,7 @@
     },
     {
         "Sent_id": "dev_975",
-        "Sent": "Végül a Tuck Everlasting áldozatul esik annak az örökös problémának, amelyet minden ember megtapasztal, aki valaha élt: túl sok a tennivaló, és túl kevés az idő.\r\n\r\n",
+        "Sent": "Végül a Tuck Everlasting áldozatul esik annak az örökös problémának, amelyet minden ember megtapasztal, aki valaha élt: túl sok a tennivaló, és túl kevés az idő.",
         "Label": "negative"
     },
     {
@@ -4901,7 +4886,7 @@
     },
     {
         "Sent_id": "dev_980",
-        "Sent": "A sokkoló és érdekfeszítő tényezők közepette a film csak egy giccses vizsgálat egy fiatal színésznőről, aki próbálja megtalálni az útját.\r\n\r\n",
+        "Sent": "A sokkoló és érdekfeszítő tényezők közepette a film csak egy giccses vizsgálat egy fiatal színésznőről, aki próbálja megtalálni az útját.",
         "Label": "neutral"
     },
     {
@@ -4941,7 +4926,7 @@
     },
     {
         "Sent_id": "dev_988",
-        "Sent": "Az Imogen Kimmel rendezővel közösen írt forgatókönyvből hiányzik a szükséges szellemesség ahhoz, hogy teljes mértékben kiaknázza az előzmények komikus elemeit, így a végeredmény inkább bizarr, mint valóban szórakoztató.\r\n\r\n",
+        "Sent": "Az Imogen Kimmel rendezővel közösen írt forgatókönyvből hiányzik a szükséges szellemesség ahhoz, hogy teljes mértékben kiaknázza az előzmények komikus elemeit, így a végeredmény inkább bizarr, mint valóban szórakoztató.",
         "Label": "negative"
     },
     {
@@ -4951,17 +4936,17 @@
     },
     {
         "Sent_id": "dev_990",
-        "Sent": "Vígjátékként nem vicces, sok statikus beállítással, kevés kameramozgással, és a jelenetek többsége beltérben, formális környezetben játszódik, mozdulatlan szereplőkkel.\r\n\r\n",
+        "Sent": "Vígjátékként nem vicces, sok statikus beállítással, kevés kameramozgással, és a jelenetek többsége beltérben, formális környezetben játszódik, mozdulatlan szereplőkkel.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_991",
-        "Sent": "Mindegyik történet egy potenciálisan érdekes ötletre épül, de az első kettőt elrontja az amatőr írás és színészi játék, míg a harmadikat a rövid játékidő korlátozza.\r\n\r\n",
+        "Sent": "Mindegyik történet egy potenciálisan érdekes ötletre épül, de az első kettőt elrontja az amatőr írás és színészi játék, míg a harmadikat a rövid játékidő korlátozza.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_992",
-        "Sent": "Kivéve Paymert, mint a főnököt, aki végül is együtt érez Bartleby fájdalmával, az alakítások annyira stilizáltak, hogy az emberi érzelmeket is nélkülözik.\r\n\r\n",
+        "Sent": "Kivéve Paymert, mint a főnököt, aki végül is együtt érez Bartleby fájdalmával, az alakítások annyira stilizáltak, hogy az emberi érzelmeket is nélkülözik.",
         "Label": "neutral"
     },
     {
@@ -4976,7 +4961,7 @@
     },
     {
         "Sent_id": "dev_995",
-        "Sent": "Mi a teendő tűz esetén? a film radikális, nonkonformista értékeket ünnepel.\r\n",
+        "Sent": "Mi a teendő tűz esetén? a film radikális, nonkonformista értékeket ünnepel.",
         "Label": "neutral"
     },
     {
@@ -4986,7 +4971,7 @@
     },
     {
         "Sent_id": "dev_997",
-        "Sent": "A Knockaround Guys olyan, mint két srác diákfilmje, akik kétségbeesetten Quentin Tarantino akarnak lenni, ha felnőnek.\r\n\r\n",
+        "Sent": "A Knockaround Guys olyan, mint két srác diákfilmje, akik kétségbeesetten Quentin Tarantino akarnak lenni, ha felnőnek.",
         "Label": "negative"
     },
     {
@@ -4996,7 +4981,7 @@
     },
     {
         "Sent_id": "dev_999",
-        "Sent": "Mattei annyira beleveszik a film körkörös szerkezetébe, hogy soha nem képes értelmes diskurzusra a Szerelem a pénz idején című filmről.\r\n\r\n",
+        "Sent": "Mattei annyira beleveszik a film körkörös szerkezetébe, hogy soha nem képes értelmes diskurzusra a Szerelem a pénz idején című filmről.",
         "Label": "negative"
     },
     {
@@ -5006,7 +4991,7 @@
     },
     {
         "Sent_id": "dev_1001",
-        "Sent": "Holland hagyja, hogy a dolgok félúton kifulladjanak, de a film jelentősen jobban játszott - és sokkal kevésbé durva -, mint néhány más erőfeszítése, amelyet - a fekete városi szakemberekről szóló filmek feltörekvő műfajában - a közelmúltban tett.\r\n\r\n",
+        "Sent": "Holland hagyja, hogy a dolgok félúton kifulladjanak, de a film jelentősen jobban játszott - és sokkal kevésbé durva -, mint néhány más erőfeszítése, amelyet - a fekete városi szakemberekről szóló filmek feltörekvő műfajában - a közelmúltban tett.",
         "Label": "neutral"
     },
     {
@@ -5031,17 +5016,17 @@
     },
     {
         "Sent_id": "dev_1006",
-        "Sent": "Tetszett a film, de tudom, hogy jobban tetszett volna-e, ha egy lépéssel tovább megy.",
+        "Sent": "Tetszett a film, de nem tudom, hogy jobban tetszett volna-e, ha egy lépéssel tovább megy.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_1007",
-        "Sent": "Kissé csalódott vagyok, hogy nem az történt.\r\n\r\n",
+        "Sent": "Kissé csalódott vagyok, hogy nem az történt.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_1008",
-        "Sent": "A középosztálybeli szorongás sivár története.\r\n\r\n",
+        "Sent": "A középosztálybeli szorongás sivár története.",
         "Label": "negative"
     },
     {
@@ -5051,7 +5036,7 @@
     },
     {
         "Sent_id": "dev_1010",
-        "Sent": "Úgy tűnik, hogy -LRB- Jacksont és Bledelt -RRB- nem a színészi képességeik, hanem a külsejük és a tinédzser korosztály számára való vonzerejük miatt választották.\r\n\r\n",
+        "Sent": "Úgy tűnik, hogy Jacksont és Bledelt nem a színészi képességeik, hanem a külsejük és a tinédzser korosztály számára való vonzerejük miatt választották.",
         "Label": "negative"
     },
     {
@@ -5066,7 +5051,7 @@
     },
     {
         "Sent_id": "dev_1013",
-        "Sent": "Egy megállíthatatlanul csúnya film, nézni, hallgatni és elgondolkodni rajta, valószínűleg az eddigi legdurvább példa arra, hogy a DV-forradalom miért tette olcsóbbá a filmkészítés művészi mivoltát.\r\n\r\n",
+        "Sent": "Egy megállíthatatlanul csúnya film, nézni, hallgatni és elgondolkodni rajta, valószínűleg az eddigi legdurvább példa arra, hogy a DV-forradalom miért tette olcsóbbá a filmkészítés művészi mivoltát.",
         "Label": "negative"
     },
     {
@@ -5081,7 +5066,7 @@
     },
     {
         "Sent_id": "dev_1016",
-        "Sent": "A Friday After Next sokkal inkább harsány, mint harapós.\r\n\r\n",
+        "Sent": "A Friday After Next sokkal inkább harsány, mint harapós.",
         "Label": "negative"
     },
     {
@@ -5106,7 +5091,7 @@
     },
     {
         "Sent_id": "dev_1021",
-        "Sent": "A filmben nem minden működik, beleértve a kissé kényelmes befejezést is.\r\n\r\n",
+        "Sent": "A filmben nem minden működik, beleértve a kissé kényelmes befejezést is.",
         "Label": "negative"
     },
     {
@@ -5116,7 +5101,7 @@
     },
     {
         "Sent_id": "dev_1023",
-        "Sent": "Minden más a High Crimes-ban, akárcsak az általa ábrázolt katonai igazságszolgáltatási rendszer, fárasztóan szabályozott.\r\n\r\n",
+        "Sent": "Minden más a High Crimes-ban, akárcsak az általa ábrázolt katonai igazságszolgáltatási rendszer, fárasztóan szabályozott.",
         "Label": "neutral"
     },
     {
@@ -5171,7 +5156,7 @@
     },
     {
         "Sent_id": "dev_1034",
-        "Sent": "Frank Capra pontosan eljátszotta ezt a történetet.\r\n\r\n",
+        "Sent": "Frank Capra pontosan eljátszotta ezt a történetet.",
         "Label": "positive"
     },
     {
@@ -5191,7 +5176,7 @@
     },
     {
         "Sent_id": "dev_1038",
-        "Sent": "Ha helyesen kezelik, Wilde darabja az elegáns szellemesség és a mesterkéltség remekműve.\r\n\r\n",
+        "Sent": "Ha helyesen kezelik, Wilde darabja az elegáns szellemesség és a mesterkéltség remekműve.",
         "Label": "positive"
     },
     {
@@ -5221,7 +5206,7 @@
     },
     {
         "Sent_id": "dev_1044",
-        "Sent": "Egy felemelő dráma, Antwone Fisher azonban nem eredeti.\r\n\r\n",
+        "Sent": "Egy felemelő dráma, Antwone Fisher azonban nem eredeti.",
         "Label": "neutral"
     },
     {
@@ -5236,22 +5221,22 @@
     },
     {
         "Sent_id": "dev_1047",
-        "Sent": "A bonyolult speciális effektek kerülnek a középpontba, így az emberi történet háttérbe szorul.\r\n\r\n",
+        "Sent": "A bonyolult speciális effektek kerülnek a középpontba, így az emberi történet háttérbe szorul.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_1048",
-        "Sent": "A Showtime nem különösebben támadó jellegű, de még így is képes azt az érzést kelteni, hogy soha többé nem akarsz látni autós üldözést, robbanást vagy lövöldözést.\r\n\r\n",
+        "Sent": "A Showtime nem különösebben támadó jellegű, de még így is képes azt az érzést kelteni, hogy soha többé nem akarsz látni autós üldözést, robbanást vagy lövöldözést.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_1049",
-        "Sent": "A szereplők mindegyike klasszikus depresszióban szenved, és lemondott karcsú reményeiről és álmairól.\r\n\r\n",
+        "Sent": "A szereplők mindegyike klasszikus depresszióban szenved, és lemondott karcsú reményeiről és álmairól.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_1050",
-        "Sent": "Ezt a szmokingot még vissza kellett volna küldeni a szabóhoz néhány nagyobb változtatás erejéig.\r\n\r\n",
+        "Sent": "Ezt a szmokingot még vissza kellett volna küldeni a szabóhoz néhány nagyobb változtatás erejéig.",
         "Label": "negative"
     },
     {
@@ -5276,12 +5261,12 @@
     },
     {
         "Sent_id": "dev_1055",
-        "Sent": "Elsüllyedt a túl sok jelenetrágós, fogcsikorgatós színészkedés miatt.\r\n\r\n",
+        "Sent": "Elsüllyedt a túl sok jelenetrágós, fogcsikorgatós színészkedés miatt.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_1056",
-        "Sent": "Plympton rövidfilmjeinek rajongói talán élvezhetik a filmet, de kétséges, hogy ez a kedvetlen játékfilm új nézőket fog szerezni neki.\r\n\r\n",
+        "Sent": "Plympton rövidfilmjeinek rajongói talán élvezhetik a filmet, de kétséges, hogy ez a kedvetlen játékfilm új nézőket fog szerezni neki.",
         "Label": "neutral"
     },
     {
@@ -5301,7 +5286,7 @@
     },
     {
         "Sent_id": "dev_1060",
-        "Sent": "`Punch-Drunk Love annyira meg van győződve a saját zsenialitásáról, hogy ha egy emberről lenne szó, be akarnád verni az arcát.'",
+        "Sent": "Punch-Drunk Love annyira meg van győződve a saját zsenialitásáról, hogy ha egy emberről lenne szó, be akarnád verni az arcát.",
         "Label": "negative"
     },
     {
@@ -5316,7 +5301,7 @@
     },
     {
         "Sent_id": "dev_1063",
-        "Sent": "Bár a produkció részletei pazarok, a film kevés betekintést nyújt a történelmi korszakba és annak művészeibe, különösen abba, hogy Sand hogyan szerezte hírhedt tekintélyét.\r\n\r\n",
+        "Sent": "Bár a produkció részletei pazarok, a film kevés betekintést nyújt a történelmi korszakba és annak művészeibe, különösen abba, hogy Sand hogyan szerezte hírhedt tekintélyét.",
         "Label": "neutral"
     },
     {
@@ -5331,7 +5316,7 @@
     },
     {
         "Sent_id": "dev_1066",
-        "Sent": "A sok együttérzés, empátia és szánalom ködösíti a képernyőt... A Tudatlan tündérek a szándékolatlan melodráma és a fárasztó szerelmi háromszögek földjére lép.\r\n\r\n",
+        "Sent": "A sok együttérzés, empátia és szánalom ködösíti a képernyőt... A Tudatlan tündérek a szándékolatlan melodráma és a fárasztó szerelmi háromszögek földjére lép.",
         "Label": "neutral"
     },
     {
@@ -5341,7 +5326,7 @@
     },
     {
         "Sent_id": "dev_1068",
-        "Sent": "Hogy nézett volna ki a Szárnyas fejvadász alacsony költségvetésű sorozatként egy UHF-csatornán?\r\n",
+        "Sent": "Hogy nézett volna ki a Szárnyas fejvadász alacsony költségvetésű sorozatként egy UHF-csatornán?",
         "Label": "neutral"
     },
     {
@@ -5351,7 +5336,7 @@
     },
     {
         "Sent_id": "dev_1070",
-        "Sent": "Az Eszetlenek cselekménye unalmas és kidolgozatlan, a felvétel hanyag, így aztán a film az 1970-es évekbeli feketék kihasználásáról szóló filmek alsó kategóriáját idézi.\r\n\r\n",
+        "Sent": "Az Eszetlenek cselekménye unalmas és kidolgozatlan, a felvétel hanyag, így aztán a film az 1970-es évekbeli feketék kihasználásáról szóló filmek alsó kategóriáját idézi.",
         "Label": "negative"
     },
     {
@@ -5396,7 +5381,7 @@
     },
     {
         "Sent_id": "dev_1079",
-        "Sent": "Elődeihez hasonlóan ez a Halloween is egy vérengző kaszabolós-fesztivál.\r\n\r\n",
+        "Sent": "Elődeihez hasonlóan ez a Halloween is egy vérengző kaszabolós-fesztivál.",
         "Label": "neutral"
     },
     {
@@ -5406,7 +5391,7 @@
     },
     {
         "Sent_id": "dev_1081",
-        "Sent": "Az \"Abandon\" után a színházat is el akarja hagyni.\r\n\r\n",
+        "Sent": "Az \"Abandon\" után a színházat is el akarja hagyni.",
         "Label": "negative"
     },
     {
@@ -5416,7 +5401,7 @@
     },
     {
         "Sent_id": "dev_1083",
-        "Sent": "Egy élőszereplős rajzfilm, egy pörgős és vidáman leegyszerűsített 88 perces, túlzó akciófilm, amelyet a tizenéves fiúkra gondolva állítottak össze.\r\n\r\n",
+        "Sent": "Egy élőszereplős rajzfilm, egy pörgős és vidáman leegyszerűsített 88 perces, túlzó akciófilm, amelyet a tizenéves fiúkra gondolva állítottak össze.",
         "Label": "neutral"
     },
     {
@@ -5426,12 +5411,12 @@
     },
     {
         "Sent_id": "dev_1085",
-        "Sent": "Amit a közönség érez, az a kimerültség, hogy megnéz egy filmet, ami sötét -LRB- sötétzöld, hogy pontos legyek -RRB-, savanyú, véres és aljas.",
+        "Sent": "Amit a közönség érez, az a kimerültség, hogy megnéz egy filmet, ami sötét sötétzöld, hogy pontos legyek, savanyú, véres és aljas.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_1086",
-        "Sent": "Hoffman rendezőnek, írójának és Kline ügynökének büntetést kell kapnia.\r\n\r\n",
+        "Sent": "Hoffman rendezőnek, írójának és Kline ügynökének büntetést kell kapnia.",
         "Label": "negative"
     },
     {
@@ -5446,7 +5431,7 @@
     },
     {
         "Sent_id": "dev_1089",
-        "Sent": "A Kegyelem ideje a közönségnek is megadhatta volna a módját, ha egy olyan kultúra leleplező elidegenedésének elemeire koncentráljon, ahol az emberek sajnos ellenséges ellentétben állnak egymással a meggondolatlanság és a megtorlás révén.\r\n\r\n",
+        "Sent": "A Kegyelem ideje a közönségnek is megadhatta volna a módját, ha egy olyan kultúra leleplező elidegenedésének elemeire koncentráljon, ahol az emberek sajnos ellenséges ellentétben állnak egymással a meggondolatlanság és a megtorlás révén.",
         "Label": "neutral"
     },
     {
@@ -5456,7 +5441,7 @@
     },
     {
         "Sent_id": "dev_1091",
-        "Sent": "Bár a Pereld a Nőt! még messze van attól, hogy elérje a legutóbbi Austin Powers extravaganza durvaságának szintjét, itt semmi sem ér fel annak a filmnek a néhol megjelenő ihletett pillanataival.\r\n\r\n",
+        "Sent": "Bár a Pereld a Nőt! még messze van attól, hogy elérje a legutóbbi Austin Powers extravaganza durvaságának szintjét, itt semmi sem ér fel annak a filmnek a néhol megjelenő ihletett pillanataival.",
         "Label": "neutral"
     },
     {
@@ -5466,7 +5451,7 @@
     },
     {
         "Sent_id": "dev_1093",
-        "Sent": "Ezt a filmet csak akkor érdemes megnézned, ha mazochista vagy, és van másfél órád, amit elfecsérelhetsz.\r\n\r\n",
+        "Sent": "Ezt a filmet csak akkor érdemes megnézned, ha mazochista vagy, és van másfél órád, amit elfecsérelhetsz.",
         "Label": "negative"
     },
     {
@@ -5486,7 +5471,7 @@
     },
     {
         "Sent_id": "dev_1097",
-        "Sent": "Ha a rutinszerű akció és az ehhez hasonló viccek bejönnek neked, akkor fizess 8 dollárt, és készülj fel a nagy nyírásra.\r\n\r\n",
+        "Sent": "Ha a rutinszerű akció és az ehhez hasonló viccek bejönnek neked, akkor fizess 8 dollárt, és készülj fel a nagy nyírásra.",
         "Label": "neutral"
     },
     {
@@ -5496,7 +5481,7 @@
     },
     {
         "Sent_id": "dev_1099",
-        "Sent": "A bemutatóról távozó férfi azt mondta, hogy a film jobb volt, mint a Ryan közlegény megmentése.\r\n\r\n",
+        "Sent": "A bemutatóról távozó férfi azt mondta, hogy a film jobb volt, mint a Ryan közlegény megmentése.",
         "Label": "positive"
     },
     {
@@ -5506,7 +5491,7 @@
     },
     {
         "Sent_id": "dev_1101",
-        "Sent": "De a Windtalkers azt sem pipálja felül.\r\n\r\n",
+        "Sent": "De a Windtalkers azt sem pipálja felül.",
         "Label": "negative"
     },
     {
@@ -5531,12 +5516,12 @@
     },
     {
         "Sent_id": "dev_1106",
-        "Sent": "Ritchie-nek talán nincs egy újszerű gondolat sem a fejében, de azt tudja, hogyan kell Madonnát pózolni.\r\n\r\n",
+        "Sent": "Ritchie-nek talán nincs egy újszerű gondolat sem a fejében, de azt tudja, hogyan kell Madonnát pózolni.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_1107",
-        "Sent": "A történet, bár megható, nem rendelkezik elég érzelmi rezonanciával vagy változatos eseményekkel ahhoz, hogy egy játékfilmet fenntartson, és még a 85 percet is kissé hosszúnak érezzük.\r\n\r\n",
+        "Sent": "A történet, bár megható, nem rendelkezik elég érzelmi rezonanciával vagy változatos eseményekkel ahhoz, hogy egy játékfilmet fenntartson, és még a 85 percet is kissé hosszúnak érezzük.",
         "Label": "negative"
     },
     {
@@ -5566,12 +5551,12 @@
     },
     {
         "Sent_id": "dev_1113",
-        "Sent": "A tévés szkeccsvígjátékok anyagát buzgón letétbe helyezték a nagyvásznon.\r\n\r\n\r\n",
+        "Sent": "A tévés szkeccsvígjátékok anyagát buzgón letétbe helyezték a nagyvásznon.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_1114",
-        "Sent": "-LRB- Johnnie To és Wai Ka Fai -RRB- biztos, hogy lelkes közönségre találnak az amerikai akció-kaland rajongók körében, de a film fókusza talán túl szűk ahhoz, hogy a crossover-nézőket is vonzza.",
+        "Sent": "Johnnie To és Wai Ka Fai biztos, hogy lelkes közönségre találnak az amerikai akció-kaland rajongók körében, de a film fókusza talán túl szűk ahhoz, hogy a crossover-nézőket is vonzza.",
         "Label": "neutral"
     },
     {
@@ -5596,7 +5581,7 @@
     },
     {
         "Sent_id": "dev_1119",
-        "Sent": "Néhány erős alakítás ellenére soha nem emelkedik egy latin szappanopera szintje fölé.\r\n\r\n",
+        "Sent": "Néhány erős alakítás ellenére soha nem emelkedik egy latin szappanopera szintje fölé.",
         "Label": "neutral"
     },
     {
@@ -5606,17 +5591,17 @@
     },
     {
         "Sent_id": "dev_1121",
-        "Sent": "Olyan érzés, mintha egy hosszabb rövidfilm lenne, amit az osztály legokosabb gyerekei készítettek.\r\n\r\n",
+        "Sent": "Olyan érzés, mintha egy hosszabb rövidfilm lenne, amit az osztály legokosabb gyerekei készítettek.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_1122",
-        "Sent": "Kimondhatatlan, persze aligha írja le a cselekményt és annak bonyodalmait.\r\n\r\n",
+        "Sent": "Kimondhatatlan, persze aligha írja le a cselekményt és annak bonyodalmait.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_1123",
-        "Sent": "Vulgáris, s egyúttal túl optimista kifejezés.\r\n\r\n",
+        "Sent": "Vulgáris, s egyúttal túl optimista kifejezés.",
         "Label": "neutral"
     },
     {
@@ -5631,12 +5616,12 @@
     },
     {
         "Sent_id": "dev_1126",
-        "Sent": "Ha Az utolsó ember lenne az utolsó film, ami a Földön maradt, akkor az a jelenlegi filmezés végét jelentené.\r\n\r\n",
+        "Sent": "Ha Az utolsó ember lenne az utolsó film, ami a Földön maradt, akkor az a jelenlegi filmezés végét jelentené.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_1127",
-        "Sent": "Peter Bogdanovichnak, a Welles-kutatónak sokáig tartott, de végre elkészült saját széleskörű kritikája a William Randolph Hearst kiadói óriáscégről.\r\n\r\n",
+        "Sent": "Peter Bogdanovichnak, a Welles-kutatónak sokáig tartott, de végre elkészült saját széleskörű kritikája a William Randolph Hearst kiadói óriáscégről.",
         "Label": "neutral"
     },
     {
@@ -5661,12 +5646,12 @@
     },
     {
         "Sent_id": "dev_1132",
-        "Sent": "Dan Schneider forgatókönyvíró és Shawn Levy rendező a hangerőt és az alapszíneket humorral és csípkelődéssel helyettesítik.\r\n\r\n",
+        "Sent": "Dan Schneider forgatókönyvíró és Shawn Levy rendező a hangerőt és az alapszíneket humorral és csípkelődéssel helyettesítik.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_1133",
-        "Sent": "Túlszexelt, időnként túlhajtott vígjáték-dráma, amely kevés betekintést nyújt a negyvenes, női szingli lét élményébe.\r\n\r\n",
+        "Sent": "Túlszexelt, időnként túlhajtott vígjáték-dráma, amely kevés betekintést nyújt a negyvenes, női szingli lét élményébe.",
         "Label": "negative"
     },
     {
@@ -5681,7 +5666,7 @@
     },
     {
         "Sent_id": "dev_1136",
-        "Sent": "Ritkán fordult elő, hogy egy film címe ennyire vészjóslóan figyelmeztetett volna.\r\n\r\n",
+        "Sent": "Ritkán fordult elő, hogy egy film címe ennyire vészjóslóan figyelmeztetett volna.",
         "Label": "neutral"
     },
     {
@@ -5691,12 +5676,12 @@
     },
     {
         "Sent_id": "dev_1138",
-        "Sent": "Az animáció hozzáértésről árulkodik, és néhány geg egészen vicces, de Jonah sosem rázza le magáról azt a nyomasztó, erkölcsileg felsőbbrendű, jót-teszek-neked minőséget, amely szinte automatikusan kíséri mindegyik tanító jellegű, szórakoztató művét.\r\n\r\n",
+        "Sent": "Az animáció hozzáértésről árulkodik, és néhány geg egészen vicces, de Jonah sosem rázza le magáról azt a nyomasztó, erkölcsileg felsőbbrendű, jót-teszek-neked minőséget, amely szinte automatikusan kíséri mindegyik tanító jellegű, szórakoztató művét.",
         "Label": "neutral"
     },
     {
         "Sent_id": "dev_1139",
-        "Sent": "A film üteme nagyon lassú -LRB- nyilvánvaló okok miatt -RRB- és ez is kiábrándítóvá válik.",
+        "Sent": "A film üteme nagyon lassú nyilvánvaló okok miatt és ez is kiábrándítóvá válik.",
         "Label": "negative"
     },
     {
@@ -5706,7 +5691,7 @@
     },
     {
         "Sent_id": "dev_1141",
-        "Sent": "Shafer filmje sem a cselekmény, sem a színészi játék szempontjából nem sokat nyújt.\r\n\r\n",
+        "Sent": "Shafer filmje sem a cselekmény, sem a színészi játék szempontjából nem sokat nyújt.",
         "Label": "negative"
     },
     {
@@ -5716,7 +5701,7 @@
     },
     {
         "Sent_id": "dev_1143",
-        "Sent": "-LRB- A -RRB- Revolution # 9 ötletei meggyőzőbbek, mint a kivitelezés.\r\n\r\n",
+        "Sent": "A Revolution # 9 ötletei meggyőzőbbek, mint a kivitelezés.",
         "Label": "neutral"
     },
     {
@@ -5731,7 +5716,7 @@
     },
     {
         "Sent_id": "dev_1146",
-        "Sent": "Néhány komikus szikra ellenére a Welcome to Collinwood soha nem villan fel.\r\n\r\n",
+        "Sent": "Néhány komikus szikra ellenére a Welcome to Collinwood soha nem villan fel.",
         "Label": "negative"
     },
     {
@@ -5751,7 +5736,7 @@
     },
     {
         "Sent_id": "dev_1150",
-        "Sent": "A Some Body egy rázós, bizonytalan film, amely mégis megérint néhány nyers ideget.\r\n\r\n",
+        "Sent": "A Some Body egy rázós, bizonytalan film, amely mégis megérint néhány nyers ideget.",
         "Label": "neutral"
     },
     {
@@ -5761,7 +5746,7 @@
     },
     {
         "Sent_id": "dev_1152",
-        "Sent": "-LRB- Egy -RRB- állott újrafeldolgozása az 53-as eredetinek.",
+        "Sent": "Egy állott újrafeldolgozása az 53-as eredetinek.",
         "Label": "negative"
     },
     {
@@ -5781,7 +5766,7 @@
     },
     {
         "Sent_id": "dev_1156",
-        "Sent": "Nem számítana annyira, hogy ennek az arrogáns Richard Pryor-utánzatnak a műsorszáma sértő, gyerekes és fantáziátlanul mocskos szájú, ha legalább vicces lenne.\r\n\r\n",
+        "Sent": "Nem számítana annyira, hogy ennek az arrogáns Richard Pryor-utánzatnak a műsorszáma sértő, gyerekes és fantáziátlanul mocskos szájú, ha legalább vicces lenne.",
         "Label": "negative"
     },
     {
@@ -5791,7 +5776,7 @@
     },
     {
         "Sent_id": "dev_1158",
-        "Sent": "Hé, ez az Életünk napjai és az Electric Boogaloo találkozása.\r\n\r\n",
+        "Sent": "Hé, ez az Életünk napjai és az Electric Boogaloo találkozása.",
         "Label": "neutral"
     },
     {
@@ -5816,12 +5801,12 @@
     },
     {
         "Sent_id": "dev_1163",
-        "Sent": "Megpróbálja elérni A Buckaroo Banzai kalandjai repedt őrületét, de a megdöbbentően szellemtelen forgatókönyvnek köszönhetően inkább a Ford Fairlane kalandjaira hasonlít.\r\n\r\n",
+        "Sent": "Megpróbálja elérni A Buckaroo Banzai kalandjai repedt őrületét, de a megdöbbentően szellemtelen forgatókönyvnek köszönhetően inkább a Ford Fairlane kalandjaira hasonlít.",
         "Label": "negative"
     },
     {
         "Sent_id": "dev_1164",
-        "Sent": "Aholából, a (való életben tényleg) kemény legényből hiányzik a karizma és a tehetség, amivel a filmet elhordozhatná a kétségkívül széles vállain. ",
+        "Sent": "Aholából, a (való életben tényleg) kemény legényből hiányzik a karizma és a tehetség, amivel a filmet elhordozhatná a kétségkívül széles vállain.",
         "Label": "negative"
     },
     {
