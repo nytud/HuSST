@@ -41141,7 +41141,8 @@
     },
     {
         "Sent_id": "train_8242",
-        "Sent": "Valaki, aki el tud számolni ötig a film célpiacán?"
+        "Sent": "Valaki, aki el tud számolni ötig a film célpiacán?",
+        "Label": "negative"
     },
     {
         "Sent_id": "train_8243",
