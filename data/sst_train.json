@@ -11991,7 +11991,8 @@
     },
     {
         "Sent_id": "train_2398",
-        "Sent": "Bár a filmben szép számmal találunk ostoba drogos vicceket és kiszámítható poénokat, a \"Narancsvidék\" sokkal viccesebb, mint amilyennek tűnik."
+        "Sent": "Bár a filmben szép számmal találunk ostoba drogos vicceket és kiszámítható poénokat, a \"Narancsvidék\" sokkal viccesebb, mint amilyennek tűnik.",
+        "Label": "neutral"
     },
     {
         "Sent_id": "train_2399",
@@ -12090,7 +12091,8 @@
     },
     {
         "Sent_id": "train_2418",
-        "Sent": "A Dogtown és a Z-Boys felfedi a gördeszkázás elterjedésének gyökereit, amely a \"punk srácok forradalmává\" vált."
+        "Sent": "A Dogtown és a Z-Boys felfedi a gördeszkázás elterjedésének gyökereit, amely a \"punk srácok forradalmává\" vált.",
+        "Label": "neutral"
     },
     {
         "Sent_id": "train_2419",
@@ -40029,7 +40031,8 @@
     },
     {
         "Sent_id": "train_8020",
-        "Sent": "A színészi játék, különösen a Tamboré, majdnem hogy érdemessé teszi a \"Soha többé\"-t, de (író\\/rendező) Schaeffernek meg kellene fontolnia a címben elhangzó saját jótanácsát."
+        "Sent": "A színészi játék, különösen a Tamboré, majdnem hogy érdemessé teszi a \"Soha többé\"-t, de (író\\/rendező) Schaeffernek meg kellene fontolnia a címben elhangzó saját jótanácsát.",
+        "Label": "negative"
     },
     {
         "Sent_id": "train_8021",
@@ -41212,7 +41215,8 @@
     },
     {
         "Sent_id": "train_8257",
-        "Sent": "Néha okos, de még gyakrabban sekélyes."
+        "Sent": "Néha okos, de még gyakrabban sekélyes.",
+        "Label": "negative"
     },
     {
         "Sent_id": "train_8258",
@@ -41671,7 +41675,8 @@
     },
     {
         "Sent_id": "train_8349",
-        "Sent": "Körülbelül annyira kielégítő és kiszámítható, mint a helyi útdíj."
+        "Sent": "Körülbelül annyira kielégítő és kiszámítható, mint a helyi útdíj.",
+        "Label": "negative"
     },
     {
         "Sent_id": "train_8350",
@@ -42425,7 +42430,8 @@
     },
     {
         "Sent_id": "train_8501",
-        "Sent": "Nos, mielőtt véget ér, a Pekingi Kerékpár elkezdi forgatni a kerekeit."
+        "Sent": "Nos, mielőtt véget ér, a Pekingi Kerékpár elkezdi forgatni a kerekeit.",
+        "Label": "neutral"
     },
     {
         "Sent_id": "train_8502",
@@ -42444,7 +42450,8 @@
     },
     {
         "Sent_id": "train_8505",
-        "Sent": "Szenvedély, play-back, tragédia, és sok-sok igazán magas hang."
+        "Sent": "Szenvedély, play-back, tragédia, és sok-sok igazán magas hang.",
+        "Label": "neutral"
     },
     {
         "Sent_id": "train_8506",
@@ -42903,7 +42910,8 @@
     },
     {
         "Sent_id": "train_8597",
-        "Sent": "Az íróknak, a rendezőnek, Wally Wolodarskynak, és minden színésznek saját koedukált diákszövetséget kellene alapítania: a Kappa Rho Alpha Phi-t."
+        "Sent": "Az íróknak, a rendezőnek, Wally Wolodarskynak, és minden színésznek saját koedukált diákszövetséget kellene alapítania: a Kappa Rho Alpha Phi-t.",
+        "Label": "neutral"
     },
     {
         "Sent_id": "train_8598",
@@ -43282,7 +43290,8 @@
     },
     {
         "Sent_id": "train_8673",
-        "Sent": "Ezt a filmet nem a mindent felemésztő szenvedély hajtja."
+        "Sent": "Ezt a filmet nem a mindent felemésztő szenvedély hajtja.",
+        "Label": "positive"
     },
     {
         "Sent_id": "train_8674",
@@ -43306,7 +43315,8 @@
     },
     {
         "Sent_id": "train_8678",
-        "Sent": "Az Újfiú is közéjük tartozik."
+        "Sent": "Az Újfiú is közéjük tartozik.",
+        "Label": "neutral"
     },
     {
         "Sent_id": "train_8679",
@@ -43420,7 +43430,8 @@
     },
     {
         "Sent_id": "train_8701",
-        "Sent": "Vegyük úgy az idióta címet mint valamit, ami azt az időt sugallja, amit valaki arra áldozott, hogy előálljon egy irritálóan fantáziátlan újragondolással..."
+        "Sent": "Vegyük úgy az idióta címet mint valamit, ami azt az időt sugallja, amit valaki arra áldozott, hogy előálljon egy irritálóan fantáziátlan újragondolással...",
+        "Label": "negative"
     },
     {
         "Sent_id": "train_8702",
@@ -43644,11 +43655,13 @@
     },
     {
         "Sent_id": "train_8746",
-        "Sent": "Meglehetősen hatékony mechanizmus, de kevés meglepetést kínál, és színészeit olyan területen találja, amelyet el kellett volna kerülnie."
+        "Sent": "Meglehetősen hatékony mechanizmus, de kevés meglepetést kínál, és színészeit olyan területen találja, amelyet el kellett volna kerülnie.",
+        "Label": "negative"
     },
     {
         "Sent_id": "train_8747",
-        "Sent": "A cselekmény többi részét lehetetlen megmagyarázni anélkül, hogy bármilyen feszültséget lelőnénk, bár De Palma inkább komédiáz, mint feszültséget kreál."
+        "Sent": "A cselekmény többi részét lehetetlen megmagyarázni anélkül, hogy bármilyen feszültséget lelőnénk, bár De Palma inkább komédiáz, mint feszültséget kreál.",
+        "Label": "neutral"
     },
     {
         "Sent_id": "train_8748",
@@ -43657,7 +43670,8 @@
     },
     {
         "Sent_id": "train_8749",
-        "Sent": "A \"City by the Sea\" a filmes megfelelője a defenzív vezetésnek: óvatos, lelkiismeretes és nem követ el nagyobb hibákat."
+        "Sent": "A \"City by the Sea\" a filmes megfelelője a defenzív vezetésnek: óvatos, lelkiismeretes és nem követ el nagyobb hibákat.",
+        "Label": "neutral"
     },
     {
         "Sent_id": "train_8750",
