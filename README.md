@@ -4,7 +4,7 @@ This is the home repository for the Hungarian version of the Stanford Sentiment 
 
 ## Data
 
-The files are in the 'data' folder. The dataset contains 11 683 sentence. Each sentence is annotated for its sentiment on a three point scale.
+The files are in the 'data' folder. The dataset contains 11 683 sentences. Each sentence is annotated for its sentiment on a three-point scale.
 
 The train, validation and test sets contain 9 347, 1 168 and 1 168 sentences, respectively. The test set is distributed without the labels; to evaluate your model please contact us (ligeti-nagy.noemi@nytud.hu) or visit [HuLU's website](hulu.nlp.nytud.hu) for an automatic evaluation (under construction). The metric of the evaluation is accuracy.
 
