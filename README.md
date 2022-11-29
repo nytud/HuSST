@@ -1,6 +1,6 @@
 # HuSST
 
-This is the home repository for the Hungarian version of the Stanford Sentiment Treebank. This dataset is also part of the Hungarian Language Understanding Evaluation Benchmark Kit [HuLU](hulu.nlp.nytud.hu). The corpus was created by translating and re-annotating the full sentences of the SST. 
+This is the home repository for the Hungarian version of the Stanford Sentiment Treebank. This dataset is also part of the Hungarian Language Understanding Evaluation Benchmark Kit [HuLU](hulu.nytud.hu). The corpus was created by translating and re-annotating the full sentences of the SST. 
 
 ## Data
 
